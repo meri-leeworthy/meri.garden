@@ -1,14 +1,6 @@
-@import "tailwindcss";
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-@theme {
-  --font-title: "Sligoil", "sans-serif";
-  --font-mono: "Space-Mono", "monospace";
-  --font-sans: "Vercetti", "sans-serif";
-}
 
 @layer base {
   @font-face {
@@ -109,11 +101,11 @@
   }
 
   code {
-    @apply bg-white px-1 box-decoration-clone rounded;
+    @apply bg-white bg-opacity-50 px-1 box-decoration-clone rounded;
   }
 
   .card {
-    @apply w-full border mb-4 border-white/70  items-start sm:max-w-3xl overflow-clip;
+    @apply w-full border mb-4 border-white items-start sm:max-w-3xl overflow-clip border-opacity-70;
 
     .whitefilter {
       filter: invert(100%) url(#white-alpha) invert(100%);
@@ -124,7 +116,7 @@
     }
 
     .imagecontainer {
-      @apply box-border relative w-full bg-teal-800 sm:w-auto aspect-video sm:h-40;
+      @apply box-border relative w-full bg-teal-800 bg-opacity-80 sm:w-auto aspect-video sm:h-40;
     }
 
     .previewtext {
@@ -172,5 +164,4 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  padding: 2rem 0;
 }

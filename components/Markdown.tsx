@@ -46,12 +46,12 @@ function StandardiseObsidianLinks(markdown: string) {
     })
     .replace(/\[\[(.*?)\|(.*?)\]\]/g, (_, link, display) => {
       return `[${display}](/${encodeURIComponent(link)})`
-    });
+    })
 }
 
 const convertMarkdownToReactFragment = (
   markdown: string
-): React.ReactElement<any> => {
+): React.ReactElement => {
   const parts = markdown.split(/(==.*?==)/g)
 
   const elements = parts.map((part, index) => {
@@ -85,9 +85,9 @@ const processNode = (node: React.ReactNode): React.ReactNode => {
 }
 
 const processReactTree = (
-  rootElement: React.ReactElement<any>
-): React.ReactElement<any> => {
-  return processNode(rootElement) as React.ReactElement<any>;
+  rootElement: React.ReactElement
+): React.ReactElement => {
+  return processNode(rootElement) as React.ReactElement
 }
 
 interface Citation {
@@ -96,8 +96,8 @@ interface Citation {
 }
 
 const processCitations = (
-  rootElement: React.ReactElement<any>
-): React.ReactElement<any> => {
+  rootElement: React.ReactElement
+): React.ReactElement => {
   const citations: Citation[] = []
   let endnoteRegex = /\[\^(\d+)\]:\s*((?:.|\n)*?)(?=\n\[\^\d+\]:|$)/g
 
@@ -148,5 +148,5 @@ const processCitations = (
   }
 
   const processedContent = processNode(rootElement)
-  return processedContent as React.ReactElement<any>;
+  return processedContent as React.ReactElement
 }

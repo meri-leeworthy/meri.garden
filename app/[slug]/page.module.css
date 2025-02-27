@@ -1,7 +1,3 @@
-@reference "../globals.css";
-
-
-
 /* .post p {
   @apply text-sm;
 }
@@ -13,7 +9,7 @@
 .post li {
   @apply my-1;
 }
-*/
+
 .post table {
   @apply w-1/2 ml-auto text-xs font-mono mb-6;
 }
@@ -23,10 +19,8 @@
 }
 
 .post h1 {
-  @apply inline px-2 py-[2px] text-lg leading-8 bg-purple-300 rounded-lg shadow-xl lg:text-2xl font-title box-decoration-clone;
+  @apply text-3xl font-bold my-4 font-title;
 }
-
-/*
 
 .post h2 {
   @apply text-2xl font-bold my-4 font-title;
@@ -45,11 +39,11 @@
 } */
 
 .post code {
-  @apply bg-purple-300 max-w-full overflow-x-scroll;
+  @apply bg-purple-300;
 }
 
 .post blockquote {
-  @apply border-l-4 border-slate-700 pl-4 my-4 max-w-full overflow-x-scroll;
+  @apply border-l-4 border-slate-700 pl-4 my-4;
 }
 
 .post section.backlinks {

@@ -1,198 +1,2662 @@
 {
   "1": [
     {
-      "slug": "Complainant 202258 v Southern Restaurants (VIC) Pty Ltd (Discrimination) (2025)"
-    },
-    {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
-    },
-    {
-      "slug": "Ingram v QBE Insurance (Australia) Ltd (Human Rights) (2015)"
-    }
-  ],
-  "2": [
-    {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
+      "slug": "Who Is Oakland?"
     }
   ],
   "3": [
     {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
+      "slug": "Who Is Oakland?"
     }
   ],
   "4": [
     {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
+      "slug": "Who Is Oakland?"
     }
   ],
   "5": [
     {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
+      "slug": "Who Is Oakland?"
     }
   ],
-  "6": [
+  "HM - Abstraction": [
     {
-      "slug": "Hwang v Registrar of Business Licencing Authority (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Class"
     }
   ],
-  "21": [
+  "HM - Class": [
     {
-      "slug": "Comcare v Friend (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Abstraction"
+    },
+    {
+      "slug": "HM - Education"
     }
   ],
-  "31": [
+  "HM - Education": [
     {
-      "slug": "Obudho v Patty Malones Bar Pty Ltd (2017)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Class"
+    },
+    {
+      "slug": "HM - Hacking"
     }
   ],
-  "35": [
+  "HM - Hacking": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Education"
+    },
+    {
+      "slug": "HM - History"
     }
   ],
-  "59": [
+  "HM - History": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Hacking"
+    },
+    {
+      "slug": "HM - Information"
     }
   ],
-  "61": [
+  "HM - Information": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - History"
+    },
+    {
+      "slug": "HM - Nature"
     }
   ],
-  "114": [
+  "HM - Nature": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Information"
+    },
+    {
+      "slug": "HM - Production"
     }
   ],
-  "182": [
+  "HM - Production": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Nature"
+    },
+    {
+      "slug": "HM - Property"
     }
   ],
-  "184": [
+  "HM - Property": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Production"
+    },
+    {
+      "slug": "HM - Representation"
     }
   ],
-  "261": [
+  "HM - Representation": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Property"
+    },
+    {
+      "slug": "HM - Revolt"
     }
   ],
-  "271": [
+  "HM - Revolt": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Representation"
+    },
+    {
+      "slug": "HM - State"
     }
   ],
-  "347": [
+  "HM - State": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Revolt"
+    },
+    {
+      "slug": "HM - Subject"
     }
   ],
-  "349": [
+  "HM - Subject": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - State"
+    },
+    {
+      "slug": "HM - Surplus"
     }
   ],
-  "526": [
+  "HM - Surplus": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Subject"
+    },
+    {
+      "slug": "HM - Vector"
     }
   ],
-  "676": [
+  "HM - Vector": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Surplus"
+    },
+    {
+      "slug": "HM - World"
     }
   ],
-  "677": [
+  "HM - World": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Hacker Manifesto"
+    },
+    {
+      "slug": "HM - Vector"
     }
   ],
-  "678": [
+  "A-Thousand-Plateaus.pdf": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A Thousand Plateaus"
     }
   ],
-  "1600": [
+  "Marisol de la Cadena": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A World of Many Worlds"
     }
   ],
-  "1622": [
+  "Mario Blaser": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "A World of Many Worlds"
+    },
+    {
+      "slug": "In the Way of Development - Indigenous Peoples, Life Projects and Globalization"
+    },
+    {
+      "slug": "Political Ontology"
+    },
+    {
+      "slug": "development"
+    },
+    {
+      "slug": "ontology"
+    },
+    {
+      "slug": "place"
     }
   ],
-  "1640": [
+  "Automation and the Future of Work": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "Aaron Benanav"
     }
   ],
-  "1737": [
+  "How to Make a Pencil": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "Aaron Benanav"
     }
   ],
-  "1762": [
+  "Cofactor Matrix": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "Adjugate (Adjoint) Matrix"
+    },
+    {
+      "slug": "Matrix algebra glossary"
     }
   ],
-  "5131": [
+  "Cruel Optimism": [
     {
-      "slug": "Taylor v August and Pemberton Pty Ltd (2023)"
+      "slug": "Affect theory"
+    },
+    {
+      "slug": "Literature"
     }
   ],
-  "256]-[260": [
+  "A Thousand Plateaus": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "Affect theory"
+    },
+    {
+      "slug": "Body without Organs"
+    },
+    {
+      "slug": "Gilles Deleuze"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Unthought"
+    },
+    {
+      "slug": "new materialism"
+    },
+    {
+      "slug": "stratification"
     }
   ],
-  "179]-[184": [
+  "surplus population": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Identical Abject-Subject?"
     }
   ],
-  "61]-[64": [
+  "financialisation": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Identical Abject-Subject?"
     }
   ],
-  "1760]-[1763": [
+  "development|developmental": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Identical Abject-Subject?"
+    },
+    {
+      "slug": "Marx and developmentalism"
     }
   ],
-  "523]-[524": [
+  "surplus capital": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Identical Abject-Subject?"
     }
   ],
-  "524]-[525": [
+  "subsumption": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Identical Abject-Subject?"
+    },
+    {
+      "slug": "The Defeat of the Workers Movement"
     }
   ],
-  "537]-[539": [
+  "Paul Virilio": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Outline of Ontological Design"
     }
   ],
-  "538]-[539": [
+  "The Administration of Fear": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Outline of Ontological Design"
     }
   ],
-  "57]-[64": [
+  "Anne-­Marie Willis": [
     {
-      "slug": "Tickle v Giggle for Girls Pty Ltd (No 2) (2024)"
+      "slug": "An Outline of Ontological Design"
     }
   ],
-  "35]–[36": [
+  "Understanding Computers and Cognition": [
     {
-      "slug": "Whelan v Oldfield Entertainment Pty Ltd (2024)"
+      "slug": "An Outline of Ontological Design"
+    },
+    {
+      "slug": "Being and Time"
+    },
+    {
+      "slug": "Fernando Flores"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    },
+    {
+      "slug": "cognition"
+    },
+    {
+      "slug": "hermeneutics"
+    }
+  ],
+  "Perceptron": [
+    {
+      "slug": "Artificial Neural Network"
+    },
+    {
+      "slug": "Feed-forward Neural Network"
+    },
+    {
+      "slug": "Multiclass Perceptron"
+    },
+    {
+      "slug": "Training Perceptrons"
+    }
+  ],
+  "Feed-forward Neural Network": [
+    {
+      "slug": "Artificial Neural Network"
+    },
+    {
+      "slug": "Perceptron"
+    }
+  ],
+  "Autonomous Design": [
+    {
+      "slug": "Autonomous Design and the Politics of Relationality and the Communal"
+    }
+  ],
+  "Proceso de Comunidades Negras": [
+    {
+      "slug": "Autonomous Design"
+    }
+  ],
+  "Autonomous Design and the Politics of Relationality and the Communal": [
+    {
+      "slug": "Autonomous Design"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Systems Thinking"
+    },
+    {
+      "slug": "autonomy"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "local-first": [
+    {
+      "slug": "Beehive"
+    },
+    {
+      "slug": "Local-first and data sovereignty vs knowledge aggregation"
+    }
+  ],
+  "Willow Protocol": [
+    {
+      "slug": "Beehive"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Freenet": [
+    {
+      "slug": "Beehive"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Designs for the Pluriverse": [
+    {
+      "slug": "Buen Vivir"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Mario Blaser"
+    },
+    {
+      "slug": "Marisol de la Cadena"
+    },
+    {
+      "slug": "Modernity"
+    },
+    {
+      "slug": "Pluriverse"
+    },
+    {
+      "slug": "Political Ontology"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "autonomy"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "Housing as Commons": [
+    {
+      "slug": "Buen Vivir"
+    },
+    {
+      "slug": "Commoning"
+    },
+    {
+      "slug": "Housing as Commons"
+    },
+    {
+      "slug": "Housing"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Functions": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "L'Hôpital's Rule": [
+    {
+      "slug": "Calculus"
+    },
+    {
+      "slug": "Derivatives and Differentiation"
+    },
+    {
+      "slug": "Limits"
+    }
+  ],
+  "Limits": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Continuity": [
+    {
+      "slug": "Calculus"
+    },
+    {
+      "slug": "Limits"
+    }
+  ],
+  "Derivatives and Differentiation": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Chain Rule": [
+    {
+      "slug": "Calculus"
+    },
+    {
+      "slug": "Derivatives and Differentiation"
+    },
+    {
+      "slug": "Rules of Differentiation"
+    },
+    {
+      "slug": "backpropagation"
+    }
+  ],
+  "Optimisation": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Integrals and Integration": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Partial Derivatives": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Vector Calculus": [
+    {
+      "slug": "Calculus"
+    }
+  ],
+  "Capital and extraction": [
+    {
+      "slug": "Carceral Capitalism"
+    }
+  ],
+  "D-separation": [
+    {
+      "slug": "Chain Rule (Probability)"
+    }
+  ],
+  "Chain Rule (Probability)": [
+    {
+      "slug": "Chain Rule"
+    },
+    {
+      "slug": "D-separation"
+    },
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Inverse Matrix": [
+    {
+      "slug": "Cofactor Matrix"
+    },
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Adjugate (Adjoint) Matrix": [
+    {
+      "slug": "Cofactor Matrix"
+    },
+    {
+      "slug": "Inverse Matrix"
+    },
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Fields of Commoning": [
+    {
+      "slug": "Commoning"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "comunalidad": [
+    {
+      "slug": "Communality"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "Communisation": [
+    {
+      "slug": "Communality"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Revolutionary Motives": [
+    {
+      "slug": "Communisation"
+    },
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Governing The Commons"
+    },
+    {
+      "slug": "Jasper Bernes"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Endnotes": [
+    {
+      "slug": "Communisation"
+    },
+    {
+      "slug": "Forest and Factory"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    },
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Housing Cooperatives": [
+    {
+      "slug": "Community Housing"
+    },
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Housing"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Friends of the Classless Society": [
+    {
+      "slug": "Contours of the World Commune"
+    }
+  ],
+  "Starting a Worker Cooperative": [
+    {
+      "slug": "Cooperatives"
+    }
+  ],
+  "Earthworker Cooperative": [
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "City Housing coop model": [
+    {
+      "slug": "Cooperatives"
+    }
+  ],
+  "Some hypothetical housing cooperative scenarios": [
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Housing"
+    }
+  ],
+  "Worker Cooperatives": [
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Coops as new socialism": [
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Worker Cooperatives"
+    }
+  ],
+  "A radical cooperative movement": [
+    {
+      "slug": "Cooperatives"
+    },
+    {
+      "slug": "Housing"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    },
+    {
+      "slug": "Worker Cooperatives"
+    }
+  ],
+  "FABULA - Intelligence Report Generation Using Retrieval-Augmented Narrative Construction": [
+    {
+      "slug": "Counter-Intelligence"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Distributed counter-intelligence network": [
+    {
+      "slug": "Counter-Intelligence"
+    }
+  ],
+  "Local-first and data sovereignty vs knowledge aggregation": [
+    {
+      "slug": "Counter-Intelligence"
+    }
+  ],
+  "Cybernetics|cybernetics": [
+    {
+      "slug": "Cybernetic Revolutionaries"
+    }
+  ],
+  "socialism": [
+    {
+      "slug": "Cybernetic Revolutionaries"
+    }
+  ],
+  "Project Cybersyn": [
+    {
+      "slug": "Cybernetic Revolutionaries"
+    }
+  ],
+  "The Unaccountability Machine": [
+    {
+      "slug": "Cybernetics"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Stafford Beer": [
+    {
+      "slug": "Cybernetics"
+    },
+    {
+      "slug": "The Unaccountability Machine"
+    }
+  ],
+  "Conditional rule": [
+    {
+      "slug": "D-separation"
+    },
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Ivan Illich|Illich, Ivan": [
+    {
+      "slug": "DFTP - References"
+    }
+  ],
+  "To Our Friends": [
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Humberto Maturana|Maturana, Humberto": [
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Francisco Varela": [
+    {
+      "slug": "DFTP - References"
+    }
+  ],
+  "Cybernetic Revolutionaries": [
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "Fernando Flores"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Val Plumwood|Plumwood, Val": [
+    {
+      "slug": "DFTP - References"
+    }
+  ],
+  "Lynn Margulis": [
+    {
+      "slug": "DFTP - References"
+    }
+  ],
+  "ITO4132 Introduction to Databases TP6-23": [
+    {
+      "slug": "Databases"
+    }
+  ],
+  "Mutual Aid": [
+    {
+      "slug": "Dean Spade"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Attack and steal": [
+    {
+      "slug": "Dean Spade"
+    }
+  ],
+  "Building a decision tree": [
+    {
+      "slug": "Decision Trees"
+    }
+  ],
+  "Rules of Differentiation": [
+    {
+      "slug": "Derivatives and Differentiation"
+    }
+  ],
+  "Design Justice - readmakeshare": [
+    {
+      "slug": "Design Justice"
+    }
+  ],
+  "Design Justice - A Reading List": [
+    {
+      "slug": "Design Justice"
+    }
+  ],
+  "Martin Kleppmann": [
+    {
+      "slug": "Designing Data Intensive Applications"
+    },
+    {
+      "slug": "Pudding - user discovery for anonymity networks"
+    }
+  ],
+  "Designs_for_the_Pluriverse_Radical_Inter.pdf": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "DFTP - Preface and Acknowledgements|Preface and Acknowledgements": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "DFTP - Introduction|Introduction": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Out of the Studio and into the Flow of Socionatural Life": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Ele­ments for a Cultural Studies of Design": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "One-World World"
+    },
+    {
+      "slug": "Political Ontology"
+    },
+    {
+      "slug": "relational ontologies"
+    }
+  ],
+  "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Modernity"
+    },
+    {
+      "slug": "development"
+    },
+    {
+      "slug": "ontology"
+    }
+  ],
+  "An Outline of Ontological Design": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Design for Transitions": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "DFTP - Conclusion|Conclusion": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "DFTP - References|References": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "autonomy": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Forest and Factory"
+    },
+    {
+      "slug": "Gaza - An Extreme Militarisation of the Class War"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "autopoiesis": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Mario Blaser|Blaser, Mario": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Cybernetics": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "The Unaccountability Machine"
+    }
+  ],
+  "Commoning": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Marisol de la Cadena|de la Cadena, Marisol": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "development|developmentalism": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "epistemology": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Disciplining the Savages, Savaging the Disciplines"
+    },
+    {
+      "slug": "The White Possessive"
+    }
+  ],
+  "feminist political ecology": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "political ecology"
+    }
+  ],
+  "Marxism": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Modernity": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "ontonomy": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "One-World World": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Pluriverse": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "political ecology": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Political Ontology"
+    }
+  ],
+  "feminist political ecology|feminist": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Political Ontology": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Mario Blaser"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "relationality": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "relational ontologies": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "relationality"
+    }
+  ],
+  "Systems Thinking": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Theories of Change": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Zapatistas": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Buen Vivir": [
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Housing as Commons"
+    }
+  ],
+  "Design as a theory of change": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Review of Designs for the Pluriverse": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Pluriversal Politics Protocol": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Reframing political projects as design projects enables pluriversal, decolonial worldbuilding": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Eigenvalues and Eigenvectors|eigenvalues": [
+    {
+      "slug": "Diagonalization"
+    }
+  ],
+  "Eigenvalues and Eigenvectors|eigenvector": [
+    {
+      "slug": "Diagonalization"
+    }
+  ],
+  "Inverse Matrix|invertible": [
+    {
+      "slug": "Diagonalization"
+    }
+  ],
+  "Determinant": [
+    {
+      "slug": "Eigenvalues and Eigenvectors"
+    },
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Linear Systems|system": [
+    {
+      "slug": "Eigenvalues and Eigenvectors"
+    }
+  ],
+  "po­liti­cal ecol­ogy": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "critiques of sustainability": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "Marxist geography": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "postconstructivism|postconstructivist": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "new materialism|neomaterialist": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "constructivism|constructivist": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "ontological turn": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    },
+    {
+      "slug": "Political Ontology"
+    }
+  ],
+  "distributed agency|Distributed agency": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "Vibrant Matter|Bennett 2010": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "relationality|relational": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Political Ontology|political ontology": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "David Graeber": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "Jane Bennett": [
+    {
+      "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "The Defeat of the Workers Movement": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Unionism"
+    }
+  ],
+  "An Identical Abject-Subject?": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "surplus population"
+    }
+  ],
+  "We Unhappy Few": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "Error": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Marx and developmentalism"
+    },
+    {
+      "slug": "technology"
+    }
+  ],
+  "literature/Contours of the World Commune|Contours of the World Commune": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "To Abolish The Family": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "The Passion of Communism": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Life Against Nature": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "Notes from the Chemo Room": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "The Historical Causes of Arab Separatism": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Forest and Factory": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "autonomy"
+    },
+    {
+      "slug": "technology"
+    }
+  ],
+  "The Encampments for Gaza": [
+    {
+      "slug": "Endnotes"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Jaccard index": [
+    {
+      "slug": "Euclidean distance"
+    }
+  ],
+  "Poisson distribution": [
+    {
+      "slug": "Exponential distribution"
+    },
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "2310.13848v2.pdf": [
+    {
+      "slug": "FABULA - Intelligence Report Generation Using Retrieval-Augmented Narrative Construction"
+    }
+  ],
+  "Artificial Neural Network": [
+    {
+      "slug": "Feed-forward Neural Network"
+    }
+  ],
+  "Multi-layer feed-forward neural network": [
+    {
+      "slug": "Feed-forward Neural Network"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "recurrent neural network": [
+    {
+      "slug": "Feed-forward Neural Network"
+    }
+  ],
+  "Phil Neel": [
+    {
+      "slug": "Forest and Factory"
+    }
+  ],
+  "Nick Chavez": [
+    {
+      "slug": "Forest and Factory"
+    }
+  ],
+  "Zapatistas|Lacandon Jungle": [
+    {
+      "slug": "Forest and Factory"
+    }
+  ],
+  "Aaron Benanav": [
+    {
+      "slug": "Forest and Factory"
+    },
+    {
+      "slug": "How to Make a Pencil"
+    }
+  ],
+  "knowledge graphs": [
+    {
+      "slug": "From Local to Global - A Graph RAG Approach to Query-Focused Summarization"
+    }
+  ],
+  "ideology": [
+    {
+      "slug": "Gaza - An Extreme Militarisation of the Class War"
+    }
+  ],
+  "game theory": [
+    {
+      "slug": "Governing The Commons"
+    }
+  ],
+  "Graphs, vertices, and edges": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Adjacency Matrices and Lists": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Planar Graphs": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Euler Graphs": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Hamiltonian Graphs": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Topological Sort and List": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Time and space complexity": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Introduction and basic terminology": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Types of trees": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "Types of traversals": [
+    {
+      "slug": "Graph Theory"
+    }
+  ],
+  "A Hacker Manifesto": [
+    {
+      "slug": "HM - Abstraction"
+    },
+    {
+      "slug": "HM - Class"
+    },
+    {
+      "slug": "HM - Education"
+    },
+    {
+      "slug": "HM - Hacking"
+    },
+    {
+      "slug": "HM - History"
+    },
+    {
+      "slug": "HM - Information"
+    },
+    {
+      "slug": "HM - Nature"
+    },
+    {
+      "slug": "HM - Production"
+    },
+    {
+      "slug": "HM - Property"
+    },
+    {
+      "slug": "HM - Representation"
+    },
+    {
+      "slug": "HM - Revolt"
+    },
+    {
+      "slug": "HM - State"
+    },
+    {
+      "slug": "HM - Subject"
+    },
+    {
+      "slug": "HM - Surplus"
+    },
+    {
+      "slug": "HM - Vector"
+    },
+    {
+      "slug": "HM - World"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "relationality|relationality": [
+    {
+      "slug": "HM - Abstraction"
+    }
+  ],
+  "Gilles Deleuze": [
+    {
+      "slug": "HM - Abstraction"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Guy Debord": [
+    {
+      "slug": "HM - Abstraction"
+    }
+  ],
+  "Society of the Spectacle": [
+    {
+      "slug": "HM - Abstraction"
+    }
+  ],
+  "intellectual property": [
+    {
+      "slug": "HM - Abstraction"
+    }
+  ],
+  "Landlords": [
+    {
+      "slug": "Housing"
+    }
+  ],
+  "Vincent Bevans": [
+    {
+      "slug": "If We Burn"
+    },
+    {
+      "slug": "What Was To Be Done? Protest and Revolution in the 2010s"
+    }
+  ],
+  "ontology": [
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    },
+    {
+      "slug": "The White Possessive"
+    },
+    {
+      "slug": "Understanding Computers and Cognition"
+    }
+  ],
+  "development": [
+    {
+      "slug": "In the Way of Development - Indigenous Peoples, Life Projects and Globalization"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Life Projects": [
+    {
+      "slug": "In the Way of Development - Indigenous Peoples, Life Projects and Globalization"
+    },
+    {
+      "slug": "Mario Blaser"
+    }
+  ],
+  "place": [
+    {
+      "slug": "In the Way of Development - Indigenous Peoples, Life Projects and Globalization"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "Basic Integral Formulas": [
+    {
+      "slug": "Integrals and Integration"
+    }
+  ],
+  "Definite Integrals": [
+    {
+      "slug": "Integrals and Integration"
+    }
+  ],
+  "Arc length of a curve": [
+    {
+      "slug": "Integrals and Integration"
+    }
+  ],
+  "Area of a surface": [
+    {
+      "slug": "Integrals and Integration"
+    }
+  ],
+  "Counter-Intelligence": [
+    {
+      "slug": "Intelligence-led Organising"
+    },
+    {
+      "slug": "Local-first and data sovereignty vs knowledge aggregation"
+    }
+  ],
+  "Determinant|cofactor expansion": [
+    {
+      "slug": "Inverse Matrix"
+    }
+  ],
+  "Tools for Conviviality": [
+    {
+      "slug": "Ivan Illich"
+    }
+  ],
+  "What Was To Be Done? Protest and Revolution in the 2010s": [
+    {
+      "slug": "Jasper Bernes"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Belly of the Revolution - Agriculture, Energy, and the Future of Communism": [
+    {
+      "slug": "Jasper Bernes"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "technology"
+    }
+  ],
+  "Euclidean distance": [
+    {
+      "slug": "K nearest neighbour"
+    }
+  ],
+  "Jaccard index|Jaccard coefficient": [
+    {
+      "slug": "K nearest neighbour"
+    }
+  ],
+  "Das Kapital": [
+    {
+      "slug": "Karl Marx"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "metabolism": [
+    {
+      "slug": "Karpathy - Bio Hacking Lite"
+    }
+  ],
+  "ketogenic diet": [
+    {
+      "slug": "Karpathy - Bio Hacking Lite"
+    }
+  ],
+  "In the Way of Development - Indigenous Peoples, Life Projects and Globalization": [
+    {
+      "slug": "Life Projects"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Mario Blaser"
+    },
+    {
+      "slug": "development"
+    },
+    {
+      "slug": "governance"
+    },
+    {
+      "slug": "place"
+    }
+  ],
+  "Factoring Quadratic Equations": [
+    {
+      "slug": "Limits"
+    }
+  ],
+  "Linear Systems": [
+    {
+      "slug": "Linear Algebra"
+    }
+  ],
+  "Gaussian elimination": [
+    {
+      "slug": "Linear Algebra"
+    },
+    {
+      "slug": "Linear Systems"
+    }
+  ],
+  "Vector algebra glossary": [
+    {
+      "slug": "Linear Algebra"
+    }
+  ],
+  "Matrix algebra glossary": [
+    {
+      "slug": "Linear Algebra"
+    }
+  ],
+  "Matrix transformations glossary": [
+    {
+      "slug": "Linear Algebra"
+    }
+  ],
+  "Module 5_ Topic 3 – Regression _ MonashELMS1.pdf": [
+    {
+      "slug": "Linear Regression"
+    }
+  ],
+  "Unthought": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "N. Katherine Hayles"
+    },
+    {
+      "slug": "Systems Thinking"
+    }
+  ],
+  "The Tree of Knowledge": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "relationality"
+    }
+  ],
+  "Revolutionary Strategy": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Emergence and Embodiment - New Essays on Second-Order Systems Theory": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Vibrant Matter": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "distributed agency"
+    }
+  ],
+  "A World of Many Worlds": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "How Nonviolence Protects the State": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "How to Blow up a Pipeline": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "If We Burn": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "What Was To Be Done? Protest and Revolution in the 2010s"
+    }
+  ],
+  "Mute Compulsion": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Undercommons": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Anarchism and the Black Revolution": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Family Abolition": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Governing The Commons": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Designing Data Intensive Applications": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Martin Kleppmann"
+    }
+  ],
+  "Carceral Capitalism": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Empowerment Manual": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "The Origin of Humanness in the Biology of Love": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The White Possessive": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Sand Talk": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Disciplining the Savages, Savaging the Disciplines": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Raw Law": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Aboriginal Spirituality - Aboriginal Philosophy, The Basis of Aboriginal Social and Emotional Wellbeing": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Origin of the Family, Private Property and the State": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "private property"
+    }
+  ],
+  "Being and Time": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Martin Heidegger"
+    },
+    {
+      "slug": "Understanding Computers and Cognition"
+    }
+  ],
+  "Contours of the World Commune": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "technology"
+    }
+  ],
+  "Gaza - An Extreme Militarisation of the Class War": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "A Companion to David Harvey's Companion to Marx' Capital, Chapter 1": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Insurrection vs. Organization": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Who Is Oakland?": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Tyranny of Structurelessness": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Internet and Development - A Critical Perspective": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Critique of Techno-Feudal Reason": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Capital and Cybernetics": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Pudding - user discovery for anonymity networks": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Martin Kleppmann"
+    }
+  ],
+  "From Local to Global - A Graph RAG Approach to Query-Focused Summarization": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Unexpected Benefits of Self-Modeling in Neural Systems": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Living The Dream After White Australia Episode 4 - The White Possessive": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "The Santiago Boys": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Introduction to propositional logic": [
+    {
+      "slug": "Logic"
+    }
+  ],
+  "Laws of propositional logic": [
+    {
+      "slug": "Logic"
+    }
+  ],
+  "Truth tables": [
+    {
+      "slug": "Logic"
+    }
+  ],
+  "Introduction to predicate logic": [
+    {
+      "slug": "Logic"
+    }
+  ],
+  "Negation of a predicate logic sentence": [
+    {
+      "slug": "Logic"
+    }
+  ],
+  "Karl Marx|Marx": [
+    {
+      "slug": "Marxism"
+    },
+    {
+      "slug": "subsumption"
+    }
+  ],
+  "Matrix Addition": [
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Matrix Multiplication": [
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Eigenvalues and Eigenvectors": [
+    {
+      "slug": "Matrix algebra glossary"
+    },
+    {
+      "slug": "Matrix transformations glossary"
+    }
+  ],
+  "Diagonalization": [
+    {
+      "slug": "Matrix algebra glossary"
+    }
+  ],
+  "Linear Transformation": [
+    {
+      "slug": "Matrix transformations glossary"
+    }
+  ],
+  "Inverse Matrix|inverse": [
+    {
+      "slug": "Matrix transformations glossary"
+    }
+  ],
+  "Perceptron|perceptrons": [
+    {
+      "slug": "Multi-layer feed-forward neural network"
+    }
+  ],
+  "gradient descent": [
+    {
+      "slug": "Multi-layer feed-forward neural network"
+    }
+  ],
+  "Derivatives and Differentiation|derivative": [
+    {
+      "slug": "Multi-layer feed-forward neural network"
+    }
+  ],
+  "Rules of Differentiation|Sum Rule": [
+    {
+      "slug": "Multi-layer feed-forward neural network"
+    }
+  ],
+  "backpropagation": [
+    {
+      "slug": "Multi-layer feed-forward neural network"
+    },
+    {
+      "slug": "activation function"
+    },
+    {
+      "slug": "gradient descent"
+    }
+  ],
+  "Bayes Theorem": [
+    {
+      "slug": "Naïve-Bayes"
+    },
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "The Uncommons": [
+    {
+      "slug": "One-World World"
+    }
+  ],
+  "activation function": [
+    {
+      "slug": "Perceptron"
+    }
+  ],
+  "Multiclass Perceptron": [
+    {
+      "slug": "Perceptron"
+    }
+  ],
+  "Training Perceptrons": [
+    {
+      "slug": "Perceptron"
+    }
+  ],
+  "Worked example on perceptrons": [
+    {
+      "slug": "Perceptron"
+    }
+  ],
+  "DFTP - Preface and Acknowledgements": [
+    {
+      "slug": "Pluriverse"
+    }
+  ],
+  "Zapatistas|Zapatista": [
+    {
+      "slug": "Pluriverse"
+    }
+  ],
+  "DFTP - Conclusion": [
+    {
+      "slug": "Pluriverse"
+    },
+    {
+      "slug": "To Our Friends"
+    },
+    {
+      "slug": "epistemology"
+    }
+  ],
+  "Designs_for_the_Pluriverse_Radical_Inter.pdf#page=75&selection=4,0,26,75|Designs_for_the_Pluriverse_Radical_Inter, page 75": [
+    {
+      "slug": "Political Ontology"
+    }
+  ],
+  "Introduction to probability theory": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Probability terminology": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Addition rule": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Complement rule": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Multiplication rule": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Binomial distribution": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Gaussian distribution": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Exponential distribution": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Introduction to random variables": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Expectation of a random variable": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Linearity of expectation": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Variances": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Covariances": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "Maximum Likelihood Estimation (MLE) ": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "MLE for Gaussian distribution": [
+    {
+      "slug": "Probability Theory"
+    }
+  ],
+  "socialist planning": [
+    {
+      "slug": "Project Cybersyn"
+    }
+  ],
+  "Fernando Flores": [
+    {
+      "slug": "Project Cybersyn"
+    }
+  ],
+  "Literature": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Arturo Escobar": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Calculus": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "software engineering": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "cognition as enaction": [
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "cognition"
+    }
+  ],
+  "Unthought|Hayles, 2017": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "new materialism": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "distributed agency": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Intelligence-led Organising": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "GraphRAG": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "knowledge management": [
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Jasper Bernes": [
+    {
+      "slug": "Revolutionary Motives"
+    },
+    {
+      "slug": "What Was To Be Done? Protest and Revolution in the 2010s"
+    }
+  ],
+  "Monsieur Dupont": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Nihilist Communism": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Is all knowledge functional?": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Conflict theories are affective reactions to and expressions of embodied social stratification": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Unionism|unionism": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Body without Organs": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "3quc46lq2i_file.pdf#page=17&annotation=936R": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "3quc46lq2i_file.pdf#page=23&annotation=1077R": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "3quc46lq2i_file.pdf#page=23&annotation=1088R": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "private property": [
+    {
+      "slug": "Revolutionary Motives"
+    },
+    {
+      "slug": "intellectual property"
+    }
+  ],
+  "3quc46lq2i_file.pdf#page=23&annotation=1094R": [
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Power Rule": [
+    {
+      "slug": "Rules of Differentiation"
+    }
+  ],
+  "Product Rule": [
+    {
+      "slug": "Rules of Differentiation"
+    }
+  ],
+  "Quotient Rule": [
+    {
+      "slug": "Rules of Differentiation"
+    }
+  ],
+  "Introduction to set theory": [
+    {
+      "slug": "Set Theory"
+    }
+  ],
+  "Types of sets, subset, superset, power set, cardinality of a set": [
+    {
+      "slug": "Set Theory"
+    }
+  ],
+  "Venn diagram applications": [
+    {
+      "slug": "Set Theory"
+    }
+  ],
+  "Operations on sets": [
+    {
+      "slug": "Set Theory"
+    }
+  ],
+  "Laws on sets": [
+    {
+      "slug": "Set Theory"
+    }
+  ],
+  "Katherine Cunningham": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Session 1_ Intro for Starting a Worker Cooperative (student copy).pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Session 2_ Setting the Foundations (student copy).pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Coop Manual.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Australia Co-operatives Manual.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Australian Cooperatives Investment.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Crowdfunding-for-co-operative-securities-BCCM (1).pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Empowerment_Five-Fold-Path.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    },
+    {
+      "slug": "The Empowerment Manual"
+    }
+  ],
+  "PRINCE2-activities-v5.2.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "DragonDreaming_eBook_english_V02.09.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Earthworker Worker Coop Info Sheet.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "scamper tool for ideation.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "TheDemocracyPrincipleCoopHistory.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "BCCM-How-to-Choose-Co-op-Type.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Deep Democracy A4 Decisioning Tools Handout.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "CO-OP CHECKLISTS TEMPLATE_ Major decisions and tasks (Business & Governance) - Master copy.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "BCCM-Capital-Builder-Business-Case-Template-Oct2020  With details.pdf": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Starhawk": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Getting our Act Together": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Glen Ochre": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "We The People": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "Sociocracy": [
+    {
+      "slug": "Starting a Worker Cooperative"
+    }
+  ],
+  "belly-of-the-revolution-final.pdf": [
+    {
+      "slug": "The Belly of the Revolution - Agriculture, Energy, and the Future of Communism"
+    }
+  ],
+  "technology": [
+    {
+      "slug": "The Belly of the Revolution - Agriculture, Energy, and the Future of Communism"
+    }
+  ],
+  "328427060.pdf": [
+    {
+      "slug": "The Internet and Development - A Critical Perspective"
+    }
+  ],
+  "Humberto Maturana": [
+    {
+      "slug": "The Origin of Humanness in the Biology of Love"
+    }
+  ],
+  "preview-9781845403775_A24168368.pdf": [
+    {
+      "slug": "The Origin of Humanness in the Biology of Love"
+    }
+  ],
+  "Friedrich Engels": [
+    {
+      "slug": "The Origin of the Family, Private Property and the State"
+    }
+  ],
+  "the-uncommons.pdf": [
+    {
+      "slug": "The Uncommons"
+    }
+  ],
+  "hermeneutics": [
+    {
+      "slug": "Understanding Computers and Cognition"
+    }
+  ],
+  "cognition": [
+    {
+      "slug": "Understanding Computers and Cognition"
+    },
+    {
+      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    }
+  ],
+  "Martin Heidegger|Heidegger": [
+    {
+      "slug": "Understanding Computers and Cognition"
+    },
+    {
+      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    }
+  ],
+  "2407.10188v2.pdf#page=2&selection=15,38,20,17|2407.10188v2, page 2": [
+    {
+      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    }
+  ],
+  "Open Unthought_ The Power of the Cog - Katherine Hayles.pdf": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Vector fields": [
+    {
+      "slug": "Vector Calculus"
+    }
+  ],
+  "Gradient functions": [
+    {
+      "slug": "Vector Calculus"
+    }
+  ],
+  "political ecology|Political Ecology": [
+    {
+      "slug": "Vibrant Matter"
+    }
+  ],
+  "Counter-governance": [
+    {
+      "slug": "Worker Cooperatives"
+    }
+  ],
+  "Cooperatives": [
+    {
+      "slug": "Worker Cooperatives"
+    }
+  ],
+  "Humberto Maturana|Maturana": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Francisco Varela|Varela": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "A Thousand Plateaus|Gilles Deleuze and Félix Guattari, 1987": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Anarchism|anarchist": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Commoning|reclaim the commons": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Anarchism": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "Italian autonomous Marxism": [
+    {
+      "slug": "autonomy"
+    }
+  ],
+  "sigmoid": [
+    {
+      "slug": "backpropagation"
+    }
+  ],
+  "Partial Derivatives|partial derivative": [
+    {
+      "slug": "backpropagation"
+    }
+  ],
+  "k-means clustering": [
+    {
+      "slug": "clustering"
+    }
+  ],
+  "Communality": [
+    {
+      "slug": "comunalidad"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "DFTP - Introduction": [
+    {
+      "slug": "development"
+    }
+  ],
+  "Val Plumwood": [
+    {
+      "slug": "development"
+    }
+  ],
+  "Arturo Guerrero": [
+    {
+      "slug": "development"
+    }
+  ],
+  "imperialism": [
+    {
+      "slug": "development"
+    }
+  ],
+  "colonialism": [
+    {
+      "slug": "development"
+    }
+  ],
+  "constructivism": [
+    {
+      "slug": "postconstructivism"
+    }
+  ],
+  "One-World World|OWW": [
+    {
+      "slug": "relational ontologies"
+    }
+  ],
+  "A Thousand Plateaus|Deleuze and Guattari 1987": [
+    {
+      "slug": "relational ontologies"
+    }
+  ],
+  "autopoesis": [
+    {
+      "slug": "relationality"
+    }
+  ],
+  "Das Kapital|Capital": [
+    {
+      "slug": "subsumption"
+    }
+  ],
+  "Primitive Accumulation": [
+    {
+      "slug": "subsumption"
+    }
+  ],
+  "Ivan Illich": [
+    {
+      "slug": "technology"
     }
   ]
 }

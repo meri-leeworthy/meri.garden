@@ -10,9 +10,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head />
-      <body className="relative flex flex-col items-center w-screen h-screen max-h-screen gap-4">
+      <body className="relative flex flex-col items-center w-screen h-screen max-h-screen">
         <Header />
-        <div className="flex flex-col items-center w-screen px-4 pt-16 isolate">
+        <div className="flex flex-col w-screen px-4 pt-16 isolate">
           {children}
         </div>
         <Footer />

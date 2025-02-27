@@ -5,10 +5,7 @@ import Image from "next/image"
 // import { redirect } from "next/navigation"
 // import Link from "next/link"
 
-export default async function Post(props: {
-  params: Promise<{ slug: string }>
-}) {
-  const params = await props.params
+export default async function Post({ params }: { params: { slug: string } }) {
   try {
     getPost(params.slug)
   } catch (error) {
@@ -19,50 +16,50 @@ export default async function Post(props: {
       </div>
     )
   }
-  const post = await getPost(params.slug)
+  const post = getPost(params.slug)
   return (
     <article
       className={`prose flex flex-col items-center mx-auto max-w-prose w-full ${styles.post}`}>
       <div
         className={`relative w-full lg:w-[48rem] mb-12 ${
-          post.data?.image ? "aspect-video" : "h-10"
+          post.data.image ? "aspect-video" : "h-10"
         }`}>
-        {post.data?.image && (
+        {post.data.image && (
           <div className="absolute top-0 right-3 w-[calc(100%-30px)] lg:w-[calc(48rem-40px)] bg-teal-800 bg-opacity-60 aspect-video">
             <Image
-              src={`/images/${post.data?.image}`}
+              src={`/images/${post.data.image}`}
               fill={true}
-              alt={post.data?.alt || post.data?.title}
+              alt={post.data.alt || post.data.title}
             />
           </div>
         )}
         <div className="absolute bottom-0 w-4/5 left-1">
-          <h1>{decodeURIComponent(post.slug)}</h1>
+          <h1 className="inline px-2 py-2 text-lg leading-8 bg-purple-300 rounded-lg shadow-xl lg:text-2xl font-title box-decoration-clone">
+            {decodeURIComponent(post.slug)}
+          </h1>
         </div>
       </div>
       <main className="w-full max-w-lg">
-        {post.data && (
-          <table>
-            {"author" in post.data && (
-              <tr>
-                <th>Author</th>
-                <td>{post.data.author}</td>
-              </tr>
-            )}
-            {"type" in post.data && (
-              <tr>
-                <th>Type</th>
-                <td>{post.data.type}</td>
-              </tr>
-            )}
-            {"year" in post.data && (
-              <tr>
-                <th>Year</th>
-                <td>{post.data.year}</td>
-              </tr>
-            )}
-          </table>
-        )}
+        <table>
+          {"author" in post.data && (
+            <tr>
+              <th>Author</th>
+              <td>{post.data.author}</td>
+            </tr>
+          )}
+          {"type" in post.data && (
+            <tr>
+              <th>Type</th>
+              <td>{post.data.type}</td>
+            </tr>
+          )}
+          {"year" in post.data && (
+            <tr>
+              <th>Year</th>
+              <td>{post.data.year}</td>
+            </tr>
+          )}
+        </table>
         <Markdown markdown={post.content} />
         {post.backlinks.length > 0 && (
           <section className="mt-10">
