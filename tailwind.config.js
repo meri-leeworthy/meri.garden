@@ -9,7 +9,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        "purple-300": "#F147FF",
+        "purple-300": "#E2C0FF",
       },
     },
   },
