@@ -1,7 +1,13 @@
 [[Organ Pages - Muni Town Meeting]]
 [[Leaf Render Update 0]]
 [[Approach to rendering Leaf]]
-undefined
+> Muni Town Questions
+> 
+> How does Germ manage keys Roomy has key server, looks bad, centralised you log in to ATProto and you have a Roomy key you can use Fission/Brooklyn - key fragments
+> 
+> how are they doing realtime peer to peer? sync server?
+> 
+> Research Beelay and Keyhive more talk to Brooklyn?
 
 [[Leaf]]
 [[Roomy]]
@@ -15,13 +21,12 @@ undefined
 - Finishing my writeup on [[Leaf Render Update 0]] and posting my vid & some writing to instagram & substack
 
 ## Research Topics
-[[Beelay]]
-	[[Practical Rateless Set Reconciliation|RIBLT]]
 [[Jazz]]
 [[Germ]]
 	[Autonomous Communicator (AC) Protocol](https://www.germnetwork.com/blog/autonomous-communicator-ac-protocol)
 	[Decentralized Pairwise MLS](https://www.germnetwork.com/blog/decentralized-pairwise-mls)
-[[Lose your device, but keep your keys]]
+[[Beelay]]
+	[[Practical Rateless Set Reconciliation|RIBLT]]
 [[Keyhive]]
 	[[BeeKEM]]
 [[Messaging Layer Security|MLS]]
@@ -31,6 +36,7 @@ Petnames
 [AT Messaging Proto](https://github.com/ATProtocol-Community/atmessaging-proto)
 [[ATProto]] Sync
 
+[[Lose your device, but keep your keys|Frost Threshold Signatures]]
 
 | Project | Permissions & Security | Sync & Compression |
 | ------- | ---------------------- | ------------------ |
@@ -43,6 +49,6 @@ Petnames
 Other sync servers
 
 
-# Useful links
+# Misc links
 [Keyhive lab](https://github.com/muni-town/keyhive-lab) (includes benchmarking code comparing CRDTs)
 [Polyform licences](https://polyformproject.org/licenses/)
