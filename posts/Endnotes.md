@@ -1,6 +1,9 @@
 ---
 type: organisation
 ---
+#### Issue 2:
+Value Form Theory and Communisation
+[[Misery and Debt]]
 #### Issue 3: Gender, race, class and other misfortunes
 - [Logistics, Counterlogistics and the Communist Prospect](https://endnotes.org.uk/articles/logistics-counterlogistics-and-the-communist-prospect)
 #### Issue 4: A history of separation

@@ -37,7 +37,7 @@ Chapter 1 The Commodity 13
 	4. Simple Value-Form in Its Entirety 37
 	 B. Total or Expanded Value- Form 39 
 	 1. The Expanded Relative Value-Form 39 
-	 2. The Particu lar Equivalent Form 40 
+	 2. The Particular Equivalent Form 40 
 	 3. The Shortcomings of the Total or Expanded Value- Form 40 
 	 C. The General Value-Form 41 
 	 1. The Changed Character of the Value-Form 42 

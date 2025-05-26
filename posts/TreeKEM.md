@@ -8,6 +8,8 @@ See also
 [[Asynchronous ratcheting tree]]
 
 
+one question i have is how/when did the issues with [[TreeKEM]] get resolved - seems like definitely better by draft 11?
+
 ### When does the group key 'evolve'?
 
 Every change to any key will also mean a change to its parents key, up to and including the root key. So the root key is changed most often.
@@ -32,7 +34,7 @@ Every change to any key will also mean a change to its parents key, up to and in
 Issues with [[Forward secrecy]] "stemming from the fact that its users do not erase old keys sufficiently fast." [[Security Analysis and Improvements for the IETF MLS Standard for Group Messaging|Alwen et al.]] p.251
 
 
-
+[[Security Analysis and Improvements for the IETF MLS Standard for Group Messaging]]:
 ## 4 TreeKEM
 ### 4.1 Overview
 > The TreeKEM [[Continuous Group Key Agreement|CGKA]] protocol is based on so-called (binary) *ratchet trees* (RTs). In a TreeKEM RT, group members are arranged at the leaves, and all nodes have an associated public-key encryption (PKE) key pair, except for the root. The tree invariant is that ==each user knows all secret keys on their *direct path*, i.e., on the path from their leaf node to the root==. In order to perform ==an update—the most crucial operation of a CGKA==—and produce a new update secret I, a party first generates fresh key pairs on every node of their direct path. Then, for every node v′ on its co-path—the sequence of siblings of nodes on the direct path—it encrypts specific information under the public key of v′ that allows each party in the subtree of v′ to learn all new secret keys from v’s parent up to the root (cf. Fig. 3 and Sect. 4.4). Before presenting the formal description of TreeKEM in Sect. 4.4, basic concepts around ratchet trees are explored in Sect. 4.3. Moreover, Sect. 4.2 quickly discusses the simple PKI model used in this work. 

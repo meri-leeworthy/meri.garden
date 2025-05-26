@@ -1,3 +1,8 @@
+State of the Art in Trust and Reputation Models in P2P networks . . . . . 761 Félix Gómez Mármol and Gregorio Martínez Pérez
+	[[Handbook of Peer-to-Peer Networking]]
+[[TrustNet - Trust-based Moderation]]
+[[Appleseed]]
+
 [[TrustNet - Trust-based Moderation]]:
 >Computational trust has many potential applications, which is evident from the literature. Levien’s Advogato \[Levien, 2003] was used in a real-life internet community which used trust rankings to limit article posting to trusted users. 
 >Ziegler and Lausen \[Ziegler and Lausen, 2004b] use trust to improve recommender systems, reasoning that trust and user similarity are tightly coupled. They validate their reasoning by empirically proving the coupling of trust and user similarity for a scraped dataset of book recommendations. Their aim of using trust is to avoid the problems, e.g. the cold start problem, associated with the collaborative filtering techniques used in the majority of recommender systems today. 

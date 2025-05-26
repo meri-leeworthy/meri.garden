@@ -55,7 +55,7 @@ III  Designs for the Pluriverse
 - ontonomy and, 32, 172–73, 178, 184; 
 - sociocultural domain of, 172–76; 
 - territorial, 174–75, 186–88, 187
-[[autopoiesis]], 
+[[Autopoiesis]], 
 - xiv, 5, 168–72; allopoiesis and, 173, 253n10; communal system and, 180; definition of, 169; social systems of, 183; uroboros and, 252n2
 Beer, Stafford, 
 - 251n1
@@ -127,7 +127,7 @@ decolonial theory,
 -  20, 46, 62–63, 83, 229n2, 244n19
 [[Humberto Maturana|Maturana, Humberto]], 
 - xii, 3, 33, 79, 205, 232n9; 
-- on [[autopoiesis]], xiv, 5, 168–72, 183; 
+- on [[Autopoiesis]], xiv, 5, 168–72, 183; 
 - on biology of love, 13, 83, 171, 241n1; 
 - on cognition, 42, 81, 240n1, 252n1; 
 - on interconnected communities, 213–14; 

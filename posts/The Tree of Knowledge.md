@@ -123,21 +123,17 @@ Only when this criterion of validation is satisfied will the explanation be a sc
 
 **Knowing**
 
-  
-
-Knowing is effective action, that is, operating effectively in the domain of existence of living beings.
-
-  
+Knowing is effective action, that is, ==operating effectively== in the domain of existence of living beings.
 
 Explaining Cognition
 
-1.  Phenomenon to be explained: the effective action of a living being     in its environment
+1.  Phenomenon to be explained: the effective action of a living being in its environment
 
-2.  Explanatory hypothesis: autonomous organization of living beings;     phylogenetic and ontogenetic drift with conservation of adaptation     (structural coupling)
+2.  Explanatory hypothesis: autonomous organization of living beings; phylogenetic and ontogenetic drift with conservation of adaptation (structural coupling)
 
-3.  Obtaining other phenomena: behavioral coordination in interactions     recurring between living beings and recursive behavioral     coordination upon behavioral coordination
+3.  Obtaining other phenomena: behavioral coordination in interactions recurring between living beings and recursive behavioral coordination upon behavioral coordination
 
-4.  Further observations: social phenomena, linguistic domains,     language, and self-consciousness
+4.  Further observations: social phenomena, linguistic domains, language, and self-consciousness
 
 This four-component cycle is not alien to our daily thinking. We often use it to explain phenomena as varied as the breakdown of an automobile or the election of a president. What scientists do is try to be wholly consistent and explicit with each one of the steps. They will keep a record so as to create a tradition that will go beyond one person or one generation.
 

@@ -1,3 +1,7 @@
+---
+aliases:
+  - MLS
+---
 Comes after [[Signal protocol]] introducing cryptographic guarantees on a few new properties:
 - agreement on group state
 - informal: [[Transcript consistency]][^1]

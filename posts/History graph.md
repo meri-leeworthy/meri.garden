@@ -1,4 +1,10 @@
-Used to analyse the security of [[Secure messaging]] protocols
+---
+aliases:
+  - HG
+---
+Formal security notion for [[Secure group messaging]] 
+
+introduced in [[Modular Design of Secure Group Messaging Protocols and the Security of MLS]]
 
 'like a blueprint that lets you trace the lineage of a group' - lets you see how metadata might leak
 

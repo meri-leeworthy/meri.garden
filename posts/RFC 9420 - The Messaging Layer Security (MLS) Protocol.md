@@ -8,6 +8,8 @@ author:
   - E. Omara
   - K. Cohn-Gordon
 year: "2023"
+aliases:
+  - RFC 9420
 ---
 ## [Abstract](https://www.rfc-editor.org/rfc/rfc9420.html#abstract)
 
