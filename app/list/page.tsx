@@ -1,7 +1,7 @@
 import styles from "./page.module.css"
 import { posts } from "lib/markdown"
 
-export default async function Post({ params }: { params: { slug: string } }) {
+export default async function Post() {
   return (
     <main className={`flex flex-col mx-auto max-w-3xl w-full ${styles.post}`}>
       <div>

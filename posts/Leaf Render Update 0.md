@@ -1,4 +1,4 @@
-I've created a simple render module which I'm calling `leaf-render`. It applies the Minijinja templating engine (a slightly constrained Rust implementation of Jinja2) to Leaf entities. 
+I've created a simple render module which I'm calling `leaf-render`. It applies the Minijinja templating engine (a slightly constrained Rust implementation of Jinja2) to [[Leaf]] entities. 
 
 [[Leaf]] is a local-first data engine that represents all data as 'entities' in an *entity-component-system* (ECS) architecture. An entity is always defined as a composition of components, where a component is a kind of generic description of a property of data. A blog post might have Title, Date, Author and Content components. If all data is a composition of generic semantic properties, we can interact with the same data in various interfaces, giving us interoperability and improving user autonomy. It also gives us high level a way of evolving schemas and adding features without breaking things. 
 
@@ -35,3 +35,5 @@ Here I started sketching out a more general approach to rendering:
 [[Discussion about Leaf render plugin system]]
 
 Implementing this 'transformations' and 'render systems' approach, possibly involving passing ASTs between modules, all feels a bit too complicated for right now. But I'm interested in the idea of a platform where users can compose a pipeline of transformations on their data using arbitrary WASM modules, and want to keep thinking about this into the future.
+
+I continue a bit further on this thought train in [[Leaf Swappable UI]]

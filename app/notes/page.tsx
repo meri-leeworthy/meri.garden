@@ -16,6 +16,7 @@ export default async function Notes() {
               .filter(post => post.data.tags.includes("notes"))
               .sort((a, b) => b.data.date - a.data.date)
               .map((post, i) => (
+                // @ts-expect-error Async Server Component
                 <Article post={post} key={i} />
               ))}
           </div>

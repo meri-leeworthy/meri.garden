@@ -2,10 +2,11 @@ import { Post } from "lib/types"
 import { Markdown } from "components/Markdown"
 import Link from "next/link"
 import Image from "next/image"
+import { Suspense } from "react"
 
 // TODO: fix leading on heading
 
-export default function Article({ post }: { post: Post }) {
+export default async function Article({ post }: { post: Post }) {
   return (
     <article className="card">
       <Link href={`${post.slug}`} className="no-underline">
@@ -15,7 +16,10 @@ export default function Article({ post }: { post: Post }) {
       </Link>
       <div className="flex mt-2 sm:h-40">
         <div className="previewtext">
-          <Markdown markdown={post.content.slice(0, 600) + "..."} />
+          <Suspense fallback={<div>Loading...</div>}>
+            {/* @ts-expect-error Async Server Component */}
+            <Markdown markdown={post.content.slice(0, 600) + "..."} />
+          </Suspense>
         </div>
         {!!post.data.image && (
           <Link href={`${post.slug}`} className="min-w-[30%] sm:min-w-[15%]">

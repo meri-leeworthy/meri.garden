@@ -103,7 +103,7 @@ When we perform an **Add Member** operation, we add the new member’s ID and pu
 
 ![Add member](https://www.inkandswitch.com/keyhive/notebook/static/03/add_member.png)
 
-Notice that if two members add a member concurrently to the same tree, they will add them to the same leaf. BeeKEM resolves such conflicts on merge by sorting all concurrently added leaves and blanking their paths.
+Notice that ==if two members add a member concurrently to the same tree, they will add them to the same leaf. BeeKEM resolves such conflicts on merge by sorting all concurrently added leaves and blanking their paths.==
 
 ![Resolving add conflicts](https://www.inkandswitch.com/keyhive/notebook/static/03/merging_concurrent_adds.png)
 

@@ -1,10 +1,12 @@
 [[Bluesky and the AT Protocol - Usable Decentralized Social Media]]
 
+## System Architecture
 
+![](../public/b6a8b40b62730ac33c7248d88eaa9454.jpeg)
 
 [[Merkle Search Tree]]
-### In ATProto, what are MSTs used for?
-
+### Merkle Search Trees
+Are used for...
 #### 1. **Representing Repos**
 
 Each ATProto user has a personal **repo**, a log of their content (posts, profile info, likes, etc.). This repo is:

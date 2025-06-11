@@ -35,23 +35,23 @@ The operations themselves are not as simple as this graph suggests. Instead of '
 
 A straightforward encoding of this structure adds a lot of metadata overhead to the underlying data. Fortunately we are able to compress most of this away. The details are quite fiddly but the important point is that we take advantage of the structure of chains of commits which are created one after another. 
 
-The need to compress metadata has led to two different transport formats for Automerge documents. We either send individual commits (referred to in the Automerge API as "changes") or we encode the entire document. Which format we use depends on how we are synchronising and storing changes.
+The need to compress metadata has led to **two different transport formats for Automerge documents. We either send individual commits (referred to in the Automerge API as "changes") or we encode the entire document**. Which format we use depends on how we are synchronising and storing changes.
 
 ### The Current Sync Protocol
 
-The current sync protocol is a two-party protocol which uses the commit graph of the document on each peer to determine what each end is missing. Roughly speaking each peer sends the heads of it's commit graph and then the other end responds with any known descendants. Bloom filters are used to summarise the current state of each peer and so the protocol may require multiple iterations due to bloom filter false positives.
+The current sync protocol is a two-party protocol which uses the commit graph of the document on each peer to determine what each end is missing. Roughly speaking **each peer sends the heads of it's commit graph** and then the other end responds with any known **descendants**. **Bloom filters** are used to summarise the current state of each peer and so the protocol may require **multiple iterations** due to bloom filter false positives.
 
-Generally speaking the sync protocol operates in terms of commits, each end sends commits the other end may be missing. There is one important optimisation, when a peer determines that the remote end has no data at all (i.e. during initial synchronisation) then the peer sends the entire document as a single compressed chunk.
+Generally speaking the sync protocol operates in terms of commits, each end sends commits the other end may be missing. There is one important optimisation, when a peer determines that the remote end has no data at all (i.e. during **initial synchronisation**) then the peer sends the entire document as a single compressed chunk.
 
 There are lots of details to this protocol, but the important points are:
 
-* Running the protocol requires having the entire commit graph in memory - in order to perform ancestry calculations on it
-* The protocol is iterated, so it is impossible to know up front how much work there is to do before you are synchronised
-* Except in initial synchronisation we incur the metadata overhead of the commit graph because we are sending individual commit
+* Running the protocol requires having the **entire commit graph in memory** - in order to perform ancestry calculations on it
+* The protocol is **iterated**, so it is impossible to know up front how much work there is to do before you are synchronised
+* Except in initial synchronisation we incur the **metadata overhead** of the commit graph because we are **sending individual commits**
 
 ### The problem
 
-The largest problem we currently have with the sync protocol is the memory intensive nature of running a sync server. The ongoing work on runtime memory compression will ameliorate this issue, but another related problem looms. The Beehive project is working on implementing end to end encryption (bee-to-bee encryption) for Automerge which will require that sync servers do not have access to the plaintext of the commits in the commit graph - but this seems like it will make metadata compression much more complicated.
+**The largest problem we currently have with the sync protocol is the memory intensive nature of running a sync server**. The ongoing work on runtime memory compression will ameliorate this issue, but another related problem looms. The Beehive project is working on implementing end to end encryption (bee-to-bee encryption) for Automerge which will require that sync servers do not have access to the plaintext of the commits in the commit graph - but this seems like it will make metadata compression much more complicated.
 
 Recall that in the current sync protocol if a peer is performing initial synchronisation then we send them the entire compressed document in one go. This is crucial to avoid the bandwidth costs of the metadata overhead. Currently the sync server is able to produce this compressed document on the fly because it has the plaintext of the document available. In an end to end encrypted world all the sync server has is the commit graph, the actual contents of the commits are encrypted:
 
@@ -63,9 +63,9 @@ B[B\n encrypted chunk]
 C[C\n encrypted chunk] 
 ```
 
-There is now no way for the sync server to produce a compressed document for initial sync. One way around this is to have plaintext nodes upload compressed documents to the sync server every so often. This raises questions: when should a plaintext node perform compression and how should sync servers decide which compressed chunk to send?
+There is now no way for the sync server to produce a compressed document for initial sync. One way around this is **to have plaintext nodes upload compressed documents to the sync server** every so often. This raises questions: **when should a plaintext node perform compression and how should sync servers decide which compressed chunk to send?**
 
-There is another problem with the commit-graph-plus-compressed-upload approach - it doesn't solve the metadata overhead problem for federated sync servers. Federating sync servers which both operate over ciphertext will be forced to download all of the commit DAG because otherwise they have no way of knowing whether they have all the content. Granted, sync servers are likely to have fast connections and capacious storage but I still think it's extremely undesirable to have sync servers have such unpredictable performance characteristics.
+There is another problem with the commit-graph-plus-compressed-upload approach - it doesn't solve the **metadata overhead problem for federated sync servers**. Federating sync servers which both operate over ciphertext will be forced to download all of the commit DAG because otherwise they have no way of knowing whether they have all the content. Granted, sync servers are likely to have fast connections and capacious storage but I still think it's extremely undesirable to have sync servers have such unpredictable performance characteristics.
 
 ## Design Goals
 

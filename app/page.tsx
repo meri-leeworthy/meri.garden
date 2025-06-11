@@ -8,6 +8,13 @@ import Header from "components/Header"
 export default async function Home() {
   return (
     <>
+      <section className="flex flex-col w-full max-w-3xl gap-4 mx-auto">
+        <aside className="text-xl font-title">
+          I'm a software engineer, designer, writer and artist. My goal is to
+          make data sovereignty, privacy and community autonomy accessible to
+          everyone.
+        </aside>
+      </section>
       <section className="flex flex-col w-full max-w-2xl gap-4 mx-auto">
         <h2 className="mt-16 text-lg text-teal-900 md:-ml-4 font-title">
           recent work...
@@ -17,6 +24,7 @@ export default async function Home() {
           .filter(post => post.data.tags.includes("recent"))
           .sort((a, b) => b.data.date - a.data.date)
           .map((post, i) => (
+            // @ts-expect-error Async Server Component
             <Article post={post} key={i} />
           ))}
         <Link

@@ -1,30 +1,43 @@
-import { unified } from "unified"
+import { Plugin, unified } from "unified"
 import rehypeSanitize from "rehype-sanitize"
 import * as prod from "react/jsx-runtime"
 // import rehypeStringify from "rehype-stringify"
 import remarkParse from "remark-parse"
 import remarkRehype from "remark-rehype"
+import remarkGfm from "remark-gfm"
 import rehypeReact from "rehype-react"
+import rehypeShiki from "@shikijs/rehype"
 // import { useRemarkSync } from "react-remark"
 // import { citePlugin } from "@benrbray/remark-cite"
-// import remarkObsidian from "remark-obsidian"
+import remarkObsidian from "remark-obsidian"
 import React, { Suspense } from "react"
 
-// @ts-expect-error: the react types are missing.
+// ~~@ts-expect-error: the react types are missing.
 const production = { Fragment: prod.Fragment, jsx: prod.jsx, jsxs: prod.jsxs }
 
-export function Markdown({ markdown }: { markdown: string }) {
+export async function Markdown({ markdown }: { markdown: string }) {
   // console.log(markdown)
   const standardisedMarkdown = StandardiseObsidianLinks(markdown)
 
-  const result = unified()
+  const result = await unified()
     .use(remarkParse)
-    // .use(remarkObsidian)
-    // .use(citePlugin, {})
-    .use(remarkRehype)
-    .use(rehypeSanitize)
+    .use(remarkObsidian)
+    .use(remarkGfm, {
+      singleTilde: true,
+      stringLength: true,
+      tableCellPadding: true,
+      tablePipeAlign: true,
+    } as any)
+    .use(remarkRehype as unknown as Plugin)
+    // .use(rehypeSanitize as unknown as Plugin)
+    .use(rehypeShiki, {
+      themes: {
+        light: "rose-pine-moon",
+        dark: "rose-pine-moon",
+      },
+    })
     .use(rehypeReact, production)
-    .processSync(standardisedMarkdown)
+    .process(standardisedMarkdown)
 
   return (
     <Suspense>{processReactTree(processCitations(result.result))}</Suspense>
@@ -71,7 +84,7 @@ const processNode = (node: React.ReactNode): React.ReactNode => {
   }
 
   if (React.isValidElement(node)) {
-    const children = React.Children.toArray(node.props.children).map(
+    const children = React.Children.toArray((node.props as any).children).map(
       processNode
     )
     return React.cloneElement(node, {}, ...children)
@@ -118,7 +131,7 @@ const processCitations = (
       let newChildren: React.ReactNode[] = []
       let asides: React.ReactNode[] = []
 
-      React.Children.forEach(node.props.children, child => {
+      React.Children.forEach((node.props as any).children, child => {
         if (typeof child === "string") {
           const processedText = child.replace(/\[\^(\d+)\]/g, (match, p1) => {
             const citation = citations.find(c => c.id === p1)

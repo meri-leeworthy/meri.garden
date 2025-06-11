@@ -1,22 +1,229 @@
 {
   "1": [
     {
+      "slug": "Progressive enhancement"
+    },
+    {
+      "slug": "Underlay - A First Description"
+    },
+    {
+      "slug": "Walter D. Mignolo"
+    },
+    {
       "slug": "Who Is Oakland?"
     }
   ],
+  "2": [
+    {
+      "slug": "Underlay - A First Description"
+    }
+  ],
   "3": [
+    {
+      "slug": "Underlay - A First Description"
+    },
     {
       "slug": "Who Is Oakland?"
     }
   ],
   "4": [
     {
+      "slug": "Progressive enhancement"
+    },
+    {
+      "slug": "Underlay - A First Description"
+    },
+    {
       "slug": "Who Is Oakland?"
     }
   ],
   "5": [
     {
+      "slug": "Progressive enhancement"
+    },
+    {
+      "slug": "Underlay - A First Description"
+    },
+    {
       "slug": "Who Is Oakland?"
+    }
+  ],
+  "6": [
+    {
+      "slug": "Progressive enhancement"
+    }
+  ],
+  "Passion of Communism.pdf": [
+    {
+      "slug": "'Marx and Gemeinwesen'"
+    }
+  ],
+  "systems theory": [
+    {
+      "slug": "'Marx and Gemeinwesen'"
+    },
+    {
+      "slug": "Excerpts from 'Apocalypse and Revolution'"
+    }
+  ],
+  "Complexity theory": [
+    {
+      "slug": "'Marx and Gemeinwesen'"
+    }
+  ],
+  "Amadeo Bordiga|Bordiga": [
+    {
+      "slug": "'Marx and Gemeinwesen'"
+    }
+  ],
+  "police": [
+    {
+      "slug": "'Provocation'"
+    }
+  ],
+  "Forward secrecy": [
+    {
+      "slug": "02 · Group Key Agreement with BeeKEM"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Off-The-Record protocol"
+    },
+    {
+      "slug": "PGP"
+    },
+    {
+      "slug": "Post-compromise security"
+    },
+    {
+      "slug": "Secure messaging"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    },
+    {
+      "slug": "Sender Keys"
+    },
+    {
+      "slug": "TreeKEM"
+    },
+    {
+      "slug": "Triple Diffie-Hellman"
+    },
+    {
+      "slug": "Updateable encryption"
+    }
+  ],
+  "TreeKEM": [
+    {
+      "slug": "02 · Group Key Agreement with BeeKEM"
+    },
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Multicast encryption"
+    },
+    {
+      "slug": "Muni Town"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    },
+    {
+      "slug": "TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Diffie-Hellman key exchange|Diffie-Hellman": [
+    {
+      "slug": "02 · Group Key Agreement with BeeKEM"
+    },
+    {
+      "slug": "Authenticated Diffie-Hellman"
+    },
+    {
+      "slug": "ElGamal"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    },
+    {
+      "slug": "The X3DH Key Agreement Protocol"
+    },
+    {
+      "slug": "Triple Diffie-Hellman"
+    }
+  ],
+  "Continuous Group Key Agreement|CGKA": [
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Universal composability": [
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    }
+  ],
+  "Continuous Group Key Agreement": [
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    },
+    {
+      "slug": "Causal broadcast"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Signal": [
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    },
+    {
+      "slug": "Distributed PIR - Scaling Private Messaging via the Users’ Machines"
+    }
+  ],
+  "Messaging Layer Security|MLS": [
+    {
+      "slug": "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs"
+    },
+    {
+      "slug": "Muni Town"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
     }
   ],
   "HM - Abstraction": [
@@ -194,9 +401,161 @@
       "slug": "A Thousand Plateaus"
     }
   ],
+  "rhizome": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "plateau": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "Strata": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "strata": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "abstract machine|Abstract machine": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "assemblage": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Becoming": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "line of flight": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "subjectivity": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "deterritorialization": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "body without organs": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    }
+  ],
+  "Fascism": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "abstract machine": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "State": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "technology|technological": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "Capitalism": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "affect": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Jacques Derrida|Derrida, Jacques": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "epistemology": [
+    {
+      "slug": "A Thousand Plateaus"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Disciplining the Savages, Savaging the Disciplines"
+    },
+    {
+      "slug": "The White Possessive"
+    }
+  ],
+  "Michel Foucault|Foucault, Michel": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "State apparatus": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "subjectification": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "Plateau": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "power": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
+  "subjectivity|Subjectivity": [
+    {
+      "slug": "A Thousand Plateaus"
+    }
+  ],
   "Marisol de la Cadena": [
     {
       "slug": "A World of Many Worlds"
+    },
+    {
+      "slug": "Mario Blaser"
     }
   ],
   "Mario Blaser": [
@@ -219,6 +578,27 @@
       "slug": "place"
     }
   ],
+  "A World of Many Worlds -- Marisol de la Cadena; Mario Blaser (eds_) -- 2018 -- Duke University Press -- 9781478001362 -- 4c62402f9fbc55d13529820aae2f8b84 -- Anna’s Archive.pdf": [
+    {
+      "slug": "A World of Many Worlds"
+    }
+  ],
+  "Bluesky and the AT Protocol - Usable Decentralized Social Media": [
+    {
+      "slug": "ATProto"
+    },
+    {
+      "slug": "Martin Kleppmann"
+    }
+  ],
+  "Merkle Search Tree": [
+    {
+      "slug": "ATProto"
+    },
+    {
+      "slug": "Set reconciliation"
+    }
+  ],
   "Automation and the Future of Work": [
     {
       "slug": "Aaron Benanav"
@@ -227,6 +607,14 @@
   "How to Make a Pencil": [
     {
       "slug": "Aaron Benanav"
+    }
+  ],
+  "Robert Brenner": [
+    {
+      "slug": "Aaron Benanav"
+    },
+    {
+      "slug": "The Origins of Capitalist Development - A Critique of Neo-Smithian Marxism"
     }
   ],
   "Cofactor Matrix": [
@@ -243,6 +631,9 @@
     },
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "affect"
     }
   ],
   "A Thousand Plateaus": [
@@ -262,15 +653,140 @@
       "slug": "Unthought"
     },
     {
+      "slug": "affect"
+    },
+    {
       "slug": "new materialism"
+    },
+    {
+      "slug": "new materialisms"
+    },
+    {
+      "slug": "strata"
     },
     {
       "slug": "stratification"
     }
   ],
+  "brenner_agrarian.pdf": [
+    {
+      "slug": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe"
+    }
+  ],
+  "Endnotes": [
+    {
+      "slug": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe"
+    },
+    {
+      "slug": "Communisation"
+    },
+    {
+      "slug": "Forest and Factory"
+    },
+    {
+      "slug": "Marxism"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "Revolutionary Motives"
+    },
+    {
+      "slug": "Robert Brenner"
+    },
+    {
+      "slug": "autonomy"
+    },
+    {
+      "slug": "workerism"
+    }
+  ],
+  "The construction of the workers' movement": [
+    {
+      "slug": "Agrarian Class Structure and Economic Development in Pre-Industrial Europe"
+    },
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "AMsContinuousCognition.pdf": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    }
+  ],
+  "allostasis": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    }
+  ],
+  "Cybernetics": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Friedrich Hayek"
+    },
+    {
+      "slug": "Norbert Wiener"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "The Unaccountability Machine"
+    },
+    {
+      "slug": "autonomist Marxism"
+    }
+  ],
+  "cognition": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    },
+    {
+      "slug": "Understanding Computers and Cognition"
+    },
+    {
+      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Cognitive science": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    }
+  ],
+  "Norbert Wiener": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    }
+  ],
+  "Autopoiesis": [
+    {
+      "slug": "Allostasis Machines as Continuous Cognitive Modelling"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    },
+    {
+      "slug": "autonomy"
+    }
+  ],
   "surplus population": [
     {
       "slug": "An Identical Abject-Subject?"
+    },
+    {
+      "slug": "Communisation"
     }
   ],
   "financialisation": [
@@ -291,12 +807,20 @@
       "slug": "An Identical Abject-Subject?"
     }
   ],
-  "subsumption": [
+  "Subsumption": [
     {
       "slug": "An Identical Abject-Subject?"
     },
     {
+      "slug": "Commodity fetishism"
+    },
+    {
       "slug": "The Defeat of the Workers Movement"
+    }
+  ],
+  "falling rate of profit|“Law of the Tendency of the Rate of Profit to Fall”": [
+    {
+      "slug": "An Introduction to the Three Volumes of Karl Marx’s Capital"
     }
   ],
   "Paul Virilio": [
@@ -322,6 +846,9 @@
       "slug": "Being and Time"
     },
     {
+      "slug": "Cognitive science"
+    },
+    {
       "slug": "Fernando Flores"
     },
     {
@@ -335,6 +862,118 @@
     },
     {
       "slug": "hermeneutics"
+    }
+  ],
+  "Anonymity": [
+    {
+      "slug": "Anonymity in Attribute-Based Access Control - Framework and Metric"
+    }
+  ],
+  "Anonymous and accountable": [
+    {
+      "slug": "Anonymity"
+    }
+  ],
+  "Anonymous Social Verification of Lived Experience Knowledge": [
+    {
+      "slug": "Anonymity"
+    }
+  ],
+  "Anonymity in Attribute-Based Access Control - Framework and Metric": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Attribute based access control and anonymity"
+    }
+  ],
+  "On the Anonymity of Peer-To-Peer Network Anonymity Schemes Used by Cryptocurrencies": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "Clarion - Anonymous Communication from Multiparty Shuffling Protocols": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "Mixnets and network anonymity schemes": [
+    {
+      "slug": "Anonymity"
+    }
+  ],
+  "Pudding - user discovery for anonymity networks": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Loopix"
+    },
+    {
+      "slug": "Martin Kleppmann"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "Attribute based access control and anonymity": [
+    {
+      "slug": "Anonymity"
+    }
+  ],
+  "The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Trellis - Robust and Scalable Metadata-private Anonymous Broadcast": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "Handbook of Peer-to-Peer Networking": [
+    {
+      "slug": "Anonymity"
+    },
+    {
+      "slug": "Computational Trust"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "TrustNet - Trust-based Moderation": [
+    {
+      "slug": "Appleseed"
+    },
+    {
+      "slug": "Computational Trust"
+    },
+    {
+      "slug": "Intelligence-led Organising"
+    },
+    {
+      "slug": "trust"
+    }
+  ],
+  "[Propagation Models for Trust and Distrust in Social Networks|Ziegler and Lausen, 2005": [
+    {
+      "slug": "Appleseed"
     }
   ],
   "Perceptron": [
@@ -357,6 +996,296 @@
     },
     {
       "slug": "Perceptron"
+    }
+  ],
+  "Designs for the Pluriverse": [
+    {
+      "slug": "Arturo Escobar"
+    },
+    {
+      "slug": "Buen Vivir"
+    },
+    {
+      "slug": "GraphRAG Explorations"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Mario Blaser"
+    },
+    {
+      "slug": "Marisol de la Cadena"
+    },
+    {
+      "slug": "Modernity"
+    },
+    {
+      "slug": "Pluriverse"
+    },
+    {
+      "slug": "Political Ontology"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "autonomy"
+    },
+    {
+      "slug": "autopoiesis"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "Encountering Development": [
+    {
+      "slug": "Arturo Escobar"
+    }
+  ],
+  "Pluriversal Politics": [
+    {
+      "slug": "Arturo Escobar"
+    },
+    {
+      "slug": "relational ontologies"
+    }
+  ],
+  "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "Causal broadcast"
+    },
+    {
+      "slug": "DeCAF - Decentralizable CGKA with Fast Healing"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Martin Kleppmann"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    },
+    {
+      "slug": "Sender Keys"
+    },
+    {
+      "slug": "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol"
+    }
+  ],
+  "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "DeCAF - Decentralizable CGKA with Fast Healing"
+    },
+    {
+      "slug": "History graph"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Multi-recipient Public Key Encryption"
+    },
+    {
+      "slug": "metadata-private messaging"
+    }
+  ],
+  "The Double Ratchet Algorithm": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Secure messaging"
+    },
+    {
+      "slug": "Signal protocol"
+    },
+    {
+      "slug": "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol"
+    }
+  ],
+  "The X3DH Key Agreement Protocol": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Leveraging Smart Contracts for Secure and Asynchronous Group Key Exchange Without Trusted Third Party"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol|The Double Ratchet: Security Notions, Proofs, and Modularization for the Signal Protocol": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "RFC 9420 - The Messaging Layer Security (MLS) Protocol": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    }
+  ],
+  "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "Continuous Group Key Agreement with Active Security"
+    },
+    {
+      "slug": "Continuous Group Key Agreement"
+    },
+    {
+      "slug": "Forward secrecy"
+    },
+    {
+      "slug": "History graph"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Post-compromise security"
+    },
+    {
+      "slug": "Secure messaging"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Modular Design of Secure Group Messaging Protocols and the Security of MLS": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "Broadcast encryption"
+    },
+    {
+      "slug": "History graph"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Multicast encryption"
+    }
+  ],
+  "Continuous Group Key Agreement with Active Security": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "Continuous Group Key Agreement"
+    },
+    {
+      "slug": "History graph"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "On the Insider Security of MLS": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Universal composability"
+    }
+  ],
+  "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "DeCAF - Decentralizable CGKA with Fast Healing"
+    },
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Universal composability"
+    }
+  ],
+  "TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups|TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups": [
+    {
+      "slug": "Assignment 2 - Research Project"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "On Ends-to-Ends Encryption - Asynchronous Group Messaging with Strong Security Guarantees": [
+    {
+      "slug": "Asynchronous ratcheting tree"
+    },
+    {
+      "slug": "Continuous Group Key Agreement with Active Security"
+    },
+    {
+      "slug": "Continuous Group Key Agreement"
+    }
+  ],
+  "Challenges of cybersecurity": [
+    {
+      "slug": "Australian Internet Governance Forum 2024"
+    },
+    {
+      "slug": "Challenges to computer security"
+    }
+  ],
+  "Galois - Counter Mode|GCM": [
+    {
+      "slug": "Authenticated Encryption with Associated Data (AEAD)"
+    }
+  ],
+  "Galois - Counter Mode": [
+    {
+      "slug": "Authenticated Encryption with Associated Data (AEAD)"
     }
   ],
   "Autonomous Design": [
@@ -386,6 +1315,11 @@
       "slug": "development"
     }
   ],
+  "02 · Group Key Agreement with BeeKEM": [
+    {
+      "slug": "BeeKEM"
+    }
+  ],
   "local-first": [
     {
       "slug": "Beehive"
@@ -407,39 +1341,84 @@
       "slug": "Beehive"
     },
     {
+      "slug": "Distributed Systems & P2P"
+    },
+    {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "Searching in a small world"
     }
   ],
-  "Designs for the Pluriverse": [
+  "Practical Rateless Set Reconciliation": [
     {
-      "slug": "Buen Vivir"
+      "slug": "Beelay"
     },
     {
-      "slug": "Literature"
+      "slug": "Set reconciliation"
+    }
+  ],
+  "Sedimentree": [
+    {
+      "slug": "Beelay"
+    }
+  ],
+  "Elizabeth Povinelli": [
+    {
+      "slug": "Between Gaia and Ground"
+    }
+  ],
+  "Between Gaia and Ground_ Four Axioms of Existence and the -- Elizabeth A_ Povinelli -- 2021 -- Duke University Press -- 9781478013648 -- be37eb1c1ed10621067be4d744ecf67a -- Anna’s Archive.pdf": [
+    {
+      "slug": "Between Gaia and Ground"
+    }
+  ],
+  "World-systems theory": [
+    {
+      "slug": "Beverly J. Silver"
     },
     {
-      "slug": "Mario Blaser"
+      "slug": "Immanuel Wallerstein"
     },
     {
-      "slug": "Marisol de la Cadena"
+      "slug": "Wildcat"
     },
     {
-      "slug": "Modernity"
+      "slug": "Wildcats"
+    }
+  ],
+  "Wildcat": [
+    {
+      "slug": "Beverly J. Silver"
+    }
+  ],
+  "Martin Kleppmann": [
+    {
+      "slug": "Bluesky and the AT Protocol - Usable Decentralized Social Media"
     },
     {
-      "slug": "Pluriverse"
+      "slug": "Designing Data Intensive Applications"
     },
     {
-      "slug": "Political Ontology"
+      "slug": "Pudding - user discovery for anonymity networks"
+    }
+  ],
+  "Brain of the Firm -- Stafford Beer -- 2, 1995 -- Wiley -- 9780471948391 -- 4190d03dab47ca7ed053d20aa7c22b82 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Brain of the Firm"
+    }
+  ],
+  "Multicast encryption": [
+    {
+      "slug": "Broadcast encryption"
     },
     {
-      "slug": "Public research notes"
-    },
+      "slug": "Modular Design of Secure Group Messaging Protocols and the Security of MLS"
+    }
+  ],
+  "Distributed Broadcast Encryption from Bilinear Groups": [
     {
-      "slug": "autonomy"
-    },
-    {
-      "slug": "development"
+      "slug": "Broadcast encryption"
     }
   ],
   "Housing as Commons": [
@@ -457,6 +1436,70 @@
     },
     {
       "slug": "Literature"
+    }
+  ],
+  "Capital (Marx)": [
+    {
+      "slug": "Buying and Selling Labor-Power"
+    },
+    {
+      "slug": "Commodity fetishism"
+    },
+    {
+      "slug": "Contradictions in the General Formula"
+    },
+    {
+      "slug": "Karl Marx"
+    },
+    {
+      "slug": "Political Ontology"
+    },
+    {
+      "slug": "The General Formula for Capital"
+    },
+    {
+      "slug": "The Labor Process and the Valorization Process"
+    }
+  ],
+  "The General Formula for Capital": [
+    {
+      "slug": "C-M-C"
+    },
+    {
+      "slug": "Capital (Marx)"
+    },
+    {
+      "slug": "M-C-M"
+    },
+    {
+      "slug": "capital"
+    }
+  ],
+  "M-C-M": [
+    {
+      "slug": "C-M-C"
+    },
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "Roomy": [
+    {
+      "slug": "CRDT Sync"
+    },
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Beelay": [
+    {
+      "slug": "CRDT Sync"
+    },
+    {
+      "slug": "Muni Town"
+    },
+    {
+      "slug": "Practical Rateless Set Reconciliation"
     }
   ],
   "Functions": [
@@ -527,9 +1570,60 @@
       "slug": "Calculus"
     }
   ],
+  "Caliban and the Witch - Full Text": [
+    {
+      "slug": "Caliban and the Witch"
+    }
+  ],
+  "An Introduction to the Three Volumes of Karl Marx’s Capital": [
+    {
+      "slug": "Capital (Marx)"
+    },
+    {
+      "slug": "falling rate of profit"
+    }
+  ],
+  "Capital_ Critique of Political Economy, Volume 1 -- Karl Marx; Paul North, Paul Reitter (eds_); Paul Reitter -- 2024 -- Princeton University Press -- 0691190070 -- abebaa739c328a6b12f7e42c1e5f25d0 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Capital (Marx)"
+    }
+  ],
+  "The Two Factors of the Commodity - Use-Value and Value (Value-Substance, Magnitude of Value)": [
+    {
+      "slug": "Capital (Marx)"
+    }
+  ],
+  "Contradictions in the General Formula": [
+    {
+      "slug": "Capital (Marx)"
+    }
+  ],
+  "Buying and Selling Labor-Power": [
+    {
+      "slug": "Capital (Marx)"
+    }
+  ],
+  "The Labor Process and the Valorization Process": [
+    {
+      "slug": "Capital (Marx)"
+    }
+  ],
+  "Critique of Techno-Feudal Reason": [
+    {
+      "slug": "Capital and Cybernetics"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
   "Capital and extraction": [
     {
       "slug": "Carceral Capitalism"
+    }
+  ],
+  "Causal Broadcast - How to Forget?": [
+    {
+      "slug": "Causal broadcast"
     }
   ],
   "D-separation": [
@@ -546,6 +1640,40 @@
     },
     {
       "slug": "Probability Theory"
+    }
+  ],
+  "Australian Signals Directorate (ASD)": [
+    {
+      "slug": "Challenges of cybersecurity"
+    },
+    {
+      "slug": "mass surveillance in Australia"
+    }
+  ],
+  "Types of security attacks": [
+    {
+      "slug": "Challenges to computer security"
+    },
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Between Gaia and Ground": [
+    {
+      "slug": "Claims about agency are ethical"
+    }
+  ],
+  "Modernity": [
+    {
+      "slug": "Claims about agency are ethical"
+    },
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Commodity fetishism": [
+    {
+      "slug": "Claims about agency are ethical"
     }
   ],
   "Inverse Matrix": [
@@ -567,12 +1695,143 @@
       "slug": "Matrix algebra glossary"
     }
   ],
+  "Unthought": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "N. Katherine Hayles"
+    },
+    {
+      "slug": "Systems Thinking"
+    },
+    {
+      "slug": "new materialisms"
+    }
+  ],
+  "Autopoiesis and Cognition": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Gödel, Escher, Bach": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "I Am A Strange Loop": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "Humberto Maturana": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Cybernetics"
+    },
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    },
+    {
+      "slug": "The Origin of Humanness in the Biology of Love"
+    }
+  ],
+  "Michael Levin": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "Douglas Hofstadter": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "Allostasis Machines as Continuous Cognitive Modelling": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Self-Improvising Memory - A Perspective on Memories as Agential, Dynamically Reinterpreting Cognitive Glue": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "Computational phenomenology": [
+    {
+      "slug": "Cognitive science"
+    }
+  ],
+  "cognition as enaction": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Public research notes"
+    },
+    {
+      "slug": "cognition"
+    }
+  ],
+  "cognitivist paradigm": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "cognitive assemblages": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "grounded cognition": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "nonconscious cognition": [
+    {
+      "slug": "Cognitive science"
+    },
+    {
+      "slug": "Unthought"
+    }
+  ],
   "Fields of Commoning": [
     {
       "slug": "Commoning"
     },
     {
       "slug": "Literature"
+    }
+  ],
+  "autonomist Marxism": [
+    {
+      "slug": "Commoning"
+    },
+    {
+      "slug": "Communisation"
+    },
+    {
+      "slug": "workerism"
     }
   ],
   "comunalidad": [
@@ -583,12 +1842,15 @@
       "slug": "development"
     }
   ],
-  "Communisation": [
+  "communisation": [
     {
       "slug": "Communality"
     },
     {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "Theorie Communiste"
     }
   ],
   "Revolutionary Motives": [
@@ -608,21 +1870,47 @@
       "slug": "Literature"
     }
   ],
-  "Endnotes": [
+  "Gilles Dauvé": [
+    {
+      "slug": "Communisation"
+    }
+  ],
+  "Theorie Communiste": [
     {
       "slug": "Communisation"
     },
     {
-      "slug": "Forest and Factory"
+      "slug": "workerism"
+    }
+  ],
+  "Cyber-Proletariat": [
+    {
+      "slug": "Communisation"
     },
     {
-      "slug": "Public research notes"
+      "slug": "Empire (Hardt and Negri)"
     },
     {
-      "slug": "Revolutionary Motives"
+      "slug": "Marxism"
     },
     {
-      "slug": "autonomy"
+      "slug": "Wildcat"
+    },
+    {
+      "slug": "autonomist Marxism"
+    },
+    {
+      "slug": "workerism"
+    }
+  ],
+  "autonomist Marxism|autonomism": [
+    {
+      "slug": "Communisation"
+    }
+  ],
+  "Empire (Hardt and Negri)|Hardt and Negri’": [
+    {
+      "slug": "Communisation"
     }
   ],
   "Housing Cooperatives": [
@@ -637,6 +1925,89 @@
     },
     {
       "slug": "Revolutionary Motives"
+    }
+  ],
+  "Appleseed": [
+    {
+      "slug": "Computational Trust"
+    },
+    {
+      "slug": "Propagation Models for Trust and Distrust in Social Networks"
+    },
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Trust|Section 5.1": [
+    {
+      "slug": "Computational Trust"
+    }
+  ],
+  "Web of Trust": [
+    {
+      "slug": "Computational Trust"
+    },
+    {
+      "slug": "Freenet"
+    }
+  ],
+  "Proof of Trust": [
+    {
+      "slug": "Computational Trust"
+    }
+  ],
+  "Public Key Infrastructure": [
+    {
+      "slug": "Computational Trust"
+    }
+  ],
+  "Constructing the Pluriverse_ The Geopolitics of Knowledge -- Bernd Reiter (editor) -- 2018 -- Duke University Press Books -- 9781478000013 -- 6898311878aaa5c8086722a97cb85c15 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Constructing the Pluriverse"
+    }
+  ],
+  "Arturo Escobar": [
+    {
+      "slug": "Constructing the Pluriverse"
+    },
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "Mario Blaser"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Walter D. Mignolo": [
+    {
+      "slug": "Constructing the Pluriverse"
+    },
+    {
+      "slug": "DFTP - Conclusion"
+    },
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "Walter D. Mignolo"
+    }
+  ],
+  "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol": [
+    {
+      "slug": "Continuous Group Key Agreement with Active Security"
+    },
+    {
+      "slug": "Continuous Group Key Agreement"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol|FS-AEAD": [
+    {
+      "slug": "Continuous Group Key Agreement"
     }
   ],
   "Friends of the Classless Society": [
@@ -718,6 +2089,37 @@
       "slug": "Counter-Intelligence"
     }
   ],
+  "Evgeny Morozov, Critique of Techno Feudal Reason, NLR 133 134, January April 2022.pdf": [
+    {
+      "slug": "Critique of Techno-Feudal Reason"
+    }
+  ],
+  "Capital and Cybernetics": [
+    {
+      "slug": "Critique of Techno-Feudal Reason"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Leveraging Smart Contracts for Secure and Asynchronous Group Key Exchange Without Trusted Third Party": [
+    {
+      "slug": "Cryptographic contracts"
+    },
+    {
+      "slug": "The X3DH Key Agreement Protocol"
+    }
+  ],
+  "dyer-witheford_cyberproletariat-global_labour_in_the_digital_vortex.pdf": [
+    {
+      "slug": "Cyber-Proletariat"
+    }
+  ],
+  "Nick Dyer-Witheford": [
+    {
+      "slug": "Cyber-Proletariat"
+    }
+  ],
   "Cybernetics|cybernetics": [
     {
       "slug": "Cybernetic Revolutionaries"
@@ -731,6 +2133,15 @@
   "Project Cybersyn": [
     {
       "slug": "Cybernetic Revolutionaries"
+    },
+    {
+      "slug": "Stafford Beer"
+    },
+    {
+      "slug": "The Santiago Boys"
+    },
+    {
+      "slug": "socialist planning"
     }
   ],
   "The Unaccountability Machine": [
@@ -739,6 +2150,9 @@
     },
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "socialist planning"
     }
   ],
   "Stafford Beer": [
@@ -747,6 +2161,30 @@
     },
     {
       "slug": "The Unaccountability Machine"
+    }
+  ],
+  "Francisco Varela": [
+    {
+      "slug": "Cybernetics"
+    },
+    {
+      "slug": "DFTP - References"
+    },
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    }
+  ],
+  "The Philosophy of Social Ecology": [
+    {
+      "slug": "Cybernetics"
+    },
+    {
+      "slug": "Murray Bookchin"
+    }
+  ],
+  "The Cybernetic Hypothesis": [
+    {
+      "slug": "Cybernetics"
     }
   ],
   "Conditional rule": [
@@ -776,11 +2214,9 @@
     },
     {
       "slug": "Designs for the Pluriverse"
-    }
-  ],
-  "Francisco Varela": [
+    },
     {
-      "slug": "DFTP - References"
+      "slug": "Unthought"
     }
   ],
   "Cybernetic Revolutionaries": [
@@ -792,6 +2228,9 @@
     },
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "Marxism"
     }
   ],
   "Val Plumwood|Plumwood, Val": [
@@ -809,6 +2248,11 @@
       "slug": "Databases"
     }
   ],
+  "CoCoA - Concurrent Continuous Group Key Agreement": [
+    {
+      "slug": "DeCAF - Decentralizable CGKA with Fast Healing"
+    }
+  ],
   "Mutual Aid": [
     {
       "slug": "Dean Spade"
@@ -820,6 +2264,11 @@
   "Attack and steal": [
     {
       "slug": "Dean Spade"
+    }
+  ],
+  "DID We Miss Anything? Towards Privacy-Preserving Decentralized ID Architecture": [
+    {
+      "slug": "Decentralised Identity"
     }
   ],
   "Building a decision tree": [
@@ -840,14 +2289,6 @@
   "Design Justice - A Reading List": [
     {
       "slug": "Design Justice"
-    }
-  ],
-  "Martin Kleppmann": [
-    {
-      "slug": "Designing Data Intensive Applications"
-    },
-    {
-      "slug": "Pudding - user discovery for anonymity networks"
     }
   ],
   "Designs_for_the_Pluriverse_Radical_Inter.pdf": [
@@ -892,15 +2333,27 @@
       "slug": "Modernity"
     },
     {
+      "slug": "Pluriverse"
+    },
+    {
       "slug": "development"
     },
     {
       "slug": "ontology"
+    },
+    {
+      "slug": "relational ontologies"
+    },
+    {
+      "slug": "relationality"
     }
   ],
   "An Outline of Ontological Design": [
     {
       "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "Ontological design"
     }
   ],
   "Design for Transitions": [
@@ -935,28 +2388,9 @@
       "slug": "development"
     }
   ],
-  "autopoiesis": [
-    {
-      "slug": "Designs for the Pluriverse"
-    },
-    {
-      "slug": "autonomy"
-    }
-  ],
   "Mario Blaser|Blaser, Mario": [
     {
       "slug": "Designs for the Pluriverse"
-    }
-  ],
-  "Cybernetics": [
-    {
-      "slug": "Designs for the Pluriverse"
-    },
-    {
-      "slug": "Public research notes"
-    },
-    {
-      "slug": "The Unaccountability Machine"
     }
   ],
   "Commoning": [
@@ -977,17 +2411,6 @@
       "slug": "Designs for the Pluriverse"
     }
   ],
-  "epistemology": [
-    {
-      "slug": "Designs for the Pluriverse"
-    },
-    {
-      "slug": "Disciplining the Savages, Savaging the Disciplines"
-    },
-    {
-      "slug": "The White Possessive"
-    }
-  ],
   "feminist political ecology": [
     {
       "slug": "Designs for the Pluriverse"
@@ -999,17 +2422,25 @@
       "slug": "political ecology"
     }
   ],
+  "Fernando Flores|Flores, Fernando": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
+  "Tools for Conviviality|Illich, Ivan": [
+    {
+      "slug": "Designs for the Pluriverse"
+    }
+  ],
   "Marxism": [
     {
       "slug": "Designs for the Pluriverse"
     },
     {
       "slug": "Public research notes"
-    }
-  ],
-  "Modernity": [
+    },
     {
-      "slug": "Designs for the Pluriverse"
+      "slug": "falling rate of profit"
     }
   ],
   "ontonomy": [
@@ -1040,7 +2471,7 @@
       "slug": "Designs for the Pluriverse"
     }
   ],
-  "Political Ontology": [
+  "political ontology": [
     {
       "slug": "Designs for the Pluriverse"
     },
@@ -1049,11 +2480,23 @@
     },
     {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "relational ontologies"
     }
   ],
   "relationality": [
     {
       "slug": "Designs for the Pluriverse"
+    },
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    },
+    {
+      "slug": "relational ontologies"
+    },
+    {
+      "slug": "relationality"
     }
   ],
   "relational ontologies": [
@@ -1122,6 +2565,52 @@
       "slug": "Diagonalization"
     }
   ],
+  "RSA": [
+    {
+      "slug": "Diffie-Hellman key exchange"
+    },
+    {
+      "slug": "Elliptic curve cryptography"
+    },
+    {
+      "slug": "Public Key Encryption"
+    }
+  ],
+  "Discrete logarithm problem|discrete logarithm": [
+    {
+      "slug": "Diffie-Hellman key exchange"
+    }
+  ],
+  "Authenticated Diffie-Hellman": [
+    {
+      "slug": "Diffie-Hellman key exchange"
+    }
+  ],
+  "Elliptic curve cryptography|Elliptic Curve": [
+    {
+      "slug": "Diffie-Hellman key exchange"
+    }
+  ],
+  "Euler's totient function and Euler's theorem|Euler's totient function": [
+    {
+      "slug": "Discrete logarithm problem"
+    }
+  ],
+  "metadata-private messaging": [
+    {
+      "slug": "Distributed PIR - Scaling Private Messaging via the Users’ Machines"
+    }
+  ],
+  "Alpenhorn - Bootstrapping Secure Communication Without Leaking Metadata": [
+    {
+      "slug": "Distributed PIR - Scaling Private Messaging via the Users’ Machines"
+    }
+  ],
+  "InterPlanetary File System": [
+    {
+      "slug": "Distributed Systems & P2P"
+    }
+  ],
   "Determinant": [
     {
       "slug": "Eigenvalues and Eigenvectors"
@@ -1133,6 +2622,14 @@
   "Linear Systems|system": [
     {
       "slug": "Eigenvalues and Eigenvectors"
+    }
+  ],
+  "Discrete logarithm problem": [
+    {
+      "slug": "ElGamal"
+    },
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
     }
   ],
   "po­liti­cal ecol­ogy": [
@@ -1155,7 +2652,7 @@
       "slug": "Ele­ments for a Cultural Studies of Design"
     }
   ],
-  "new materialism|neomaterialist": [
+  "new materialisms|neomaterialist": [
     {
       "slug": "Ele­ments for a Cultural Studies of Design"
     }
@@ -1191,7 +2688,7 @@
       "slug": "Public research notes"
     }
   ],
-  "Political Ontology|political ontology": [
+  "political ontology|political ontology": [
     {
       "slug": "Ele­ments for a Cultural Studies of Design"
     }
@@ -1204,6 +2701,68 @@
   "Jane Bennett": [
     {
       "slug": "Ele­ments for a Cultural Studies of Design"
+    }
+  ],
+  "Transport Layer Security": [
+    {
+      "slug": "Elliptic curve cryptography"
+    },
+    {
+      "slug": "Secure messaging"
+    }
+  ],
+  "The X3DH Key Agreement Protocol|X3DH": [
+    {
+      "slug": "Elliptic curve cryptography"
+    },
+    {
+      "slug": "Sender Keys"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Empire -- Hardt, Michael, 1960-; Negri, Antonio, 1933- -- 2000 -- Cambridge, Mass__ Harvard University Press -- 9780674006713 -- a9bf79bce02aafa767f801a0f6c8bc30 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    }
+  ],
+  "workerism|operaismo": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    }
+  ],
+  "Antonio Negri": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    },
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "Michael Hardt": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    }
+  ],
+  "immaterial labour": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    }
+  ],
+  "Donna Haraway": [
+    {
+      "slug": "Empire (Hardt and Negri)"
+    }
+  ],
+  "Encountering Development_ The Making and Unmaking of the -- Arturo Escobar -- Revised, 2011 -- Princeton University Press -- 9780691150451 -- 13732664c261e34c11d5907e8d807994 -- Anna’s Archive.pdf.crdownload": [
+    {
+      "slug": "Encountering Development"
+    }
+  ],
+  "Misery and Debt": [
+    {
+      "slug": "Endnotes"
     }
   ],
   "The Defeat of the Workers Movement": [
@@ -1252,20 +2811,23 @@
       "slug": "Endnotes"
     }
   ],
-  "To Abolish The Family": [
-    {
-      "slug": "Endnotes"
-    }
-  ],
   "The Passion of Communism": [
     {
       "slug": "Endnotes"
     },
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "subsumption"
     }
   ],
   "Life Against Nature": [
+    {
+      "slug": "Endnotes"
+    }
+  ],
+  "To Abolish The Family": [
     {
       "slug": "Endnotes"
     }
@@ -1308,6 +2870,16 @@
   "Jaccard index": [
     {
       "slug": "Euclidean distance"
+    }
+  ],
+  "Cybernetics|cybernetic": [
+    {
+      "slug": "Excerpts from 'Apocalypse and Revolution'"
+    }
+  ],
+  "degrowth": [
+    {
+      "slug": "Excerpts from 'Apocalypse and Revolution'"
     }
   ],
   "Poisson distribution": [
@@ -1364,9 +2936,69 @@
       "slug": "How to Make a Pencil"
     }
   ],
+  "Secure messaging": [
+    {
+      "slug": "Forward secrecy"
+    },
+    {
+      "slug": "Post-compromise security"
+    },
+    {
+      "slug": "Secure group messaging"
+    },
+    {
+      "slug": "Sender Keys"
+    },
+    {
+      "slug": "Transcript consistency"
+    }
+  ],
+  "Post-compromise security": [
+    {
+      "slug": "Forward secrecy"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Off-The-Record protocol"
+    },
+    {
+      "slug": "PGP"
+    },
+    {
+      "slug": "Secure messaging"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Optimising a Distributed Spam Filter for Freenet": [
+    {
+      "slug": "Freenet"
+    },
+    {
+      "slug": "Web of Trust"
+    }
+  ],
+  "Searching in a small world": [
+    {
+      "slug": "Freenet"
+    }
+  ],
   "knowledge graphs": [
     {
       "slug": "From Local to Global - A Graph RAG Approach to Query-Focused Summarization"
+    }
+  ],
+  "Authenticated Encryption with Associated Data (AEAD)": [
+    {
+      "slug": "Galois - Counter Mode"
+    }
+  ],
+  "Galois field": [
+    {
+      "slug": "Galois - Counter Mode"
     }
   ],
   "ideology": [
@@ -1374,9 +3006,32 @@
       "slug": "Gaza - An Extreme Militarisation of the Class War"
     }
   ],
+  "ATProto": [
+    {
+      "slug": "Germ"
+    },
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Gong Commune - a common viewpoint": [
+    {
+      "slug": "Gong Commune"
+    }
+  ],
   "game theory": [
     {
       "slug": "Governing The Commons"
+    }
+  ],
+  "Governing the Commons_ The Evolution of Institutions for -- Elinor Ostrom -- 1, 1990 -- Cambridge University Press -- 9780521371018 -- e7be835c262e286ce58da0894ef8173f -- Anna’s Archive.pdf": [
+    {
+      "slug": "Governing The Commons"
+    }
+  ],
+  "1809.05679v3.pdf": [
+    {
+      "slug": "Graph Convolutional Networks for Text Classification"
     }
   ],
   "Graphs, vertices, and edges": [
@@ -1427,6 +3082,35 @@
   "Types of traversals": [
     {
       "slug": "Graph Theory"
+    }
+  ],
+  "GraphCH_A_Deep_Framework_for_Assessing_Cyber-Human_Aspects_in_Insider_Threat_Detection.pdf": [
+    {
+      "slug": "GraphCH - A Deep Framework for Assessing Cyber-Human Aspects in Insider Threat Detection"
+    }
+  ],
+  "The Underlay": [
+    {
+      "slug": "GraphRAG Explorations"
+    }
+  ],
+  "From Local to Global - A Graph RAG Approach to Query-Focused Summarization": [
+    {
+      "slug": "GraphRAG Explorations"
+    },
+    {
+      "slug": "GraphRAG"
+    },
+    {
+      "slug": "Literature"
+    }
+  ],
+  "GraphRAG": [
+    {
+      "slug": "GraphRAG Explorations"
+    },
+    {
+      "slug": "Public research notes"
     }
   ],
   "A Hacker Manifesto": [
@@ -1510,9 +3194,430 @@
       "slug": "HM - Abstraction"
     }
   ],
+  "The Double Ratchet Algorithm|KDF Chain": [
+    {
+      "slug": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)"
+    }
+  ],
+  "Hash-based Message Authentication Code": [
+    {
+      "slug": "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)"
+    }
+  ],
+  "Secure group messaging": [
+    {
+      "slug": "History graph"
+    },
+    {
+      "slug": "Secure messaging"
+    }
+  ],
   "Landlords": [
     {
       "slug": "Housing"
+    }
+  ],
+  "RFC 9420 - The Messaging Layer Security (MLS) Protocol|RFC 9420": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "ElGamal": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Universal composability|universal composability": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "A Concrete Treatment of Efficient Continuous Group Key Agreement via Multi-Recipient PKEs|Chained CmPKE": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Server-Aided Continuous Group Key Agreement|filtered CGKA": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "CoCoA - Concurrent Continuous Group Key Agreement|CoCoA: Concurrent Continuous Group Key Agreement": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Keep the Dirt - Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Server-Aided Continuous Group Key Agreement": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups|TreeKEM: Asynchronous Decentralized Key Management for Large Dynamic Groups A protocol proposal for Messaging Layer Security (MLS)": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Universally Composable Security: A New Paradigm for Cryptographic Protocols": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Blind Signatures for Untraceable Payments": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Private Information Retrieval": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "A Formal Security Analysis of the Signal Messaging Protocol": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "On Post-compromise Security": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "On Ends-to-Ends Encryption - Asynchronous Group Messaging with Strong Security Guarantees|On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Tor": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    },
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    },
+    {
+      "slug": "Tor"
+    }
+  ],
+  "Keep the Dirt - Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement|Keep the Dirt: Tainted TreeKEM, Adaptively and Actively Secure Continuous Group Key Agreement": [
+    {
+      "slug": "How to Hide MetaData in MLS-Like Secure Group Messaging - Simple, Modular, and Post-Quantum"
+    }
+  ],
+  "Software engineering": [
+    {
+      "slug": "ITO5136 Module 1 - Introduction to software engineering"
+    },
+    {
+      "slug": "Public research notes"
+    }
+  ],
+  "Software Development Lifecycle": [
+    {
+      "slug": "ITO5136 Module 1 - Introduction to software engineering"
+    }
+  ],
+  "software engineering methodologies": [
+    {
+      "slug": "ITO5136 Module 1 - Introduction to software engineering"
+    }
+  ],
+  "Agile scrum project management": [
+    {
+      "slug": "ITO5136 Module 1 - Introduction to software engineering"
+    }
+  ],
+  "Roles and responsibilities within an Agile scrum software development team": [
+    {
+      "slug": "ITO5136 Module 1 - Introduction to software engineering"
+    }
+  ],
+  "ITO5163 Assignment 2": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Introduction to computer security": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Challenges to computer security": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "Introduction to computer security"
+    }
+  ],
+  "The OSI security architecture": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "Types of security attacks"
+    }
+  ],
+  "Security - Functional requirements and design principles": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "The OSI security architecture"
+    }
+  ],
+  "A model for network security": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "Security - Functional requirements and design principles"
+    }
+  ],
+  "Mathematical foundations in cryptography": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "The division algorithm": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "Mathematical foundations in cryptography"
+    }
+  ],
+  "The Euclidean algorithm": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "The division algorithm"
+    }
+  ],
+  "Modulo arithmetic": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "The Euclidean algorithm"
+    }
+  ],
+  "Fermat's little theorem": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Euler's totient function and Euler's theorem": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Extended Euclidean algorithm": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Chinese remainder theorem": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Groups, rings, fields": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Need for hard problems": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Integer factorisation problem": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Quadratic residuosity problem": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "What is symmetric cryptography?": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Block ciphers versus stream ciphers": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Substitution versus transposition ciphers": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Monoalphabetic versus polyalphabetic ciphers": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Block cipher modes": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Caesar cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Rail fence cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Playfair cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Hill cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Vigenère cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Vernam cipher and one-time pad": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Codebook cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Feistel cipher": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Data Encryption Standard (DES) / Triple DES (3DES)": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "RC4": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Blowfish and Twofish": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Advanced Encryption Standard (AES)": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 6_ Introduction to Asymmetric Cryptography.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Introduction to asymmetric cryptography": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    },
+    {
+      "slug": "Public Key Encryption"
+    }
+  ],
+  "Applications of asymmetric cryptosystems": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Trap-door one-way functions": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 7_ Asymmetric Cryptosystems.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 8_ Advanced Asymmetric Cryptosystems.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 9_ Authentication.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 10_ Integrity verification.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 11_ Methods and Key Establishment Protocols.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 12_ Attack models.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 13_ Cryptanalysis using Cryptool 2.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 14_ Blockchain.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 15_ Lightweight security.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
+    }
+  ],
+  "Lesson 16_ Database Security.pdf": [
+    {
+      "slug": "ITO5163 Information and computer Security TP6-24"
     }
   ],
   "Vincent Bevans": [
@@ -1521,6 +3626,11 @@
     },
     {
       "slug": "What Was To Be Done? Protest and Revolution in the 2010s"
+    }
+  ],
+  "World-Systems Analysis - An Introduction": [
+    {
+      "slug": "Immanuel Wallerstein"
     }
   ],
   "ontology": [
@@ -1532,6 +3642,25 @@
     },
     {
       "slug": "Understanding Computers and Cognition"
+    },
+    {
+      "slug": "Unthought"
+    },
+    {
+      "slug": "new materialisms"
+    }
+  ],
+  "Fernando Flores": [
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
+    },
+    {
+      "slug": "Project Cybersyn"
+    }
+  ],
+  "pluriverse": [
+    {
+      "slug": "In the Background of Our Culture - Rationalism, Ontological Dualism, and Relationality"
     }
   ],
   "development": [
@@ -1540,6 +3669,9 @@
     },
     {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
     }
   ],
   "Life Projects": [
@@ -1578,12 +3710,40 @@
       "slug": "Integrals and Integration"
     }
   ],
+  "Victoria Police": [
+    {
+      "slug": "Intelligence-Led Policing in Practice - Reflections From Intelligence Analysts"
+    }
+  ],
   "Counter-Intelligence": [
     {
       "slug": "Intelligence-led Organising"
     },
     {
       "slug": "Local-first and data sovereignty vs knowledge aggregation"
+    }
+  ],
+  "Intelligence-Led Policing in Practice - Reflections From Intelligence Analysts": [
+    {
+      "slug": "Intelligence-led Policing"
+    },
+    {
+      "slug": "Victoria Police"
+    }
+  ],
+  "Content Censorship in the InterPlanetary File System": [
+    {
+      "slug": "InterPlanetary File System"
+    }
+  ],
+  "IPFS - Content Addressed, Versioned, P2P File System": [
+    {
+      "slug": "InterPlanetary File System"
+    }
+  ],
+  "S-Kademlia - A Practicable Approach Towards Secure Key-Based Routing": [
+    {
+      "slug": "InterPlanetary File System"
     }
   ],
   "Determinant|cofactor expansion": [
@@ -1625,14 +3785,6 @@
       "slug": "K nearest neighbour"
     }
   ],
-  "Das Kapital": [
-    {
-      "slug": "Karl Marx"
-    },
-    {
-      "slug": "Literature"
-    }
-  ],
   "metabolism": [
     {
       "slug": "Karpathy - Bio Hacking Lite"
@@ -1641,6 +3793,229 @@
   "ketogenic diet": [
     {
       "slug": "Karpathy - Bio Hacking Lite"
+    }
+  ],
+  "Forward secrecy|FS": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    }
+  ],
+  "Post-compromise security|PCS": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging"
+    }
+  ],
+  "Messaging Layer Security": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Signal protocol"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Loopix": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    },
+    {
+      "slug": "Pudding - user discovery for anonymity networks"
+    }
+  ],
+  "SoK - Secure Messaging|Other approaches": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Sender Keys": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Sender Keys"
+    }
+  ],
+  "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging|Re-randomized TreeKEM": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "On the Price of Concurrency in Group Ratcheting Protocols|Concurrent TreeKEM": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Authenticated Encryption with Associated Data (AEAD)|AEAD": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol"
+    }
+  ],
+  "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol|forward secure AEAD": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Causal broadcast": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)|HKDF": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Matrix": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Mesh Messaging in Large-Scale Protests - Breaking Bridgefy|Mesh Messaging in Large-Scale Protests: Breaking Bridgefy": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "On the Price of Concurrency in Group Ratcheting Protocols": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Survey of Mesh Networking Messengers": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "HMAC-based Extract-and-Expand Key Derivation Function (HKDF)": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  " The Double Ratchet Algorithm": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Conflict-Free Replicated Data Types": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "More is Less - On the End-to-End Security of Group Chats in Signal, WhatsApp, and Threema|More is Less: On the End-to-End Security of Group Chats in Signal, WhatsApp, and Threema": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "SoK - Secure Messaging|SoK: Secure Messaging": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "Group Messaging for Secure Asynchronous Collaboration": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    }
+  ],
+  "WhatsApp Encryption Overview": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Sender Keys"
+    }
+  ],
+  "DeCAF - Decentralizable CGKA with Fast Healing": [
+    {
+      "slug": "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "Leaf": [
+    {
+      "slug": "Leaf Render Update 0"
+    },
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Organ": [
+    {
+      "slug": "Leaf Render Update 0"
+    }
+  ],
+  "Leaf discussion about ATProto Lexicons and Component definitions": [
+    {
+      "slug": "Leaf Render Update 0"
+    }
+  ],
+  "Technical comparison of schema definition languages": [
+    {
+      "slug": "Leaf Render Update 0"
+    }
+  ],
+  "Approach to rendering Leaf": [
+    {
+      "slug": "Leaf Render Update 0"
+    },
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Discussion about Leaf render plugin system": [
+    {
+      "slug": "Leaf Render Update 0"
+    }
+  ],
+  "Leaf Render Update 0": [
+    {
+      "slug": "Leaf"
+    },
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Muni Town": [
+    {
+      "slug": "Leaf"
+    }
+  ],
+  "Progressive enhancement": [
+    {
+      "slug": "Leaf"
+    }
+  ],
+  "Distributed PIR - Scaling Private Messaging via the Users’ Machines": [
+    {
+      "slug": "Leveraging Smart Contracts for Secure and Asynchronous Group Key Exchange Without Trusted Third Party"
+    },
+    {
+      "slug": "metadata-private messaging"
+    }
+  ],
+  "4hnfonbxkz_file.pdf": [
+    {
+      "slug": "Life Against Nature"
     }
   ],
   "In the Way of Development - Indigenous Peoples, Life Projects and Globalization": [
@@ -1701,20 +4076,12 @@
       "slug": "Linear Regression"
     }
   ],
-  "Unthought": [
-    {
-      "slug": "Literature"
-    },
-    {
-      "slug": "N. Katherine Hayles"
-    },
-    {
-      "slug": "Systems Thinking"
-    }
-  ],
   "The Tree of Knowledge": [
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "autopoiesis"
     },
     {
       "slug": "relationality"
@@ -1762,6 +4129,11 @@
     }
   ],
   "Mute Compulsion": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Das Kapital": [
     {
       "slug": "Literature"
     }
@@ -1856,9 +4228,20 @@
       "slug": "Understanding Computers and Cognition"
     }
   ],
+  "Red Skin, White Masks": [
+    {
+      "slug": "Literature"
+    },
+    {
+      "slug": "Primitive Accumulation and the Northern Territory Intervention"
+    }
+  ],
   "Contours of the World Commune": [
     {
       "slug": "Literature"
+    },
+    {
+      "slug": "Travail attractif"
     },
     {
       "slug": "technology"
@@ -1894,30 +4277,22 @@
       "slug": "Literature"
     }
   ],
-  "Critique of Techno-Feudal Reason": [
-    {
-      "slug": "Literature"
-    }
-  ],
-  "Capital and Cybernetics": [
-    {
-      "slug": "Literature"
-    }
-  ],
-  "Pudding - user discovery for anonymity networks": [
-    {
-      "slug": "Literature"
-    },
-    {
-      "slug": "Martin Kleppmann"
-    }
-  ],
-  "From Local to Global - A Graph RAG Approach to Query-Focused Summarization": [
-    {
-      "slug": "Literature"
-    }
-  ],
   "Unexpected Benefits of Self-Modeling in Neural Systems": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "Primitive Accumulation and the Northern Territory Intervention": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "ILC Mission Statement": [
+    {
+      "slug": "Literature"
+    }
+  ],
+  "ILC First Principles": [
     {
       "slug": "Literature"
     }
@@ -1955,6 +4330,34 @@
   "Negation of a predicate logic sentence": [
     {
       "slug": "Logic"
+    }
+  ],
+  "1703.00536v1.pdf": [
+    {
+      "slug": "Loopix"
+    }
+  ],
+  "C-M-C": [
+    {
+      "slug": "M-C-M"
+    },
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "investment": [
+    {
+      "slug": "M-C-M"
+    }
+  ],
+  "finance": [
+    {
+      "slug": "M-C-M"
+    }
+  ],
+  "Collaborative Text Editing with Eg-walker - Better, Faster, Smaller": [
+    {
+      "slug": "Martin Kleppmann"
     }
   ],
   "Karl Marx|Marx": [
@@ -1998,6 +4401,99 @@
       "slug": "Matrix transformations glossary"
     }
   ],
+  "Merkle tree": [
+    {
+      "slug": "Merkle Search Tree"
+    }
+  ],
+  "Search tree": [
+    {
+      "slug": "Merkle Search Tree"
+    }
+  ],
+  "Analysis of Indexing Structures for Immutable Data": [
+    {
+      "slug": "Merkle trie"
+    },
+    {
+      "slug": "Practical Rateless Set Reconciliation"
+    }
+  ],
+  "Set reconciliation": [
+    {
+      "slug": "Merkle trie"
+    },
+    {
+      "slug": "Practical Rateless Set Reconciliation"
+    }
+  ],
+  "Bloom filter": [
+    {
+      "slug": "Merkle trie"
+    },
+    {
+      "slug": "Practical Rateless Set Reconciliation"
+    },
+    {
+      "slug": "Set reconciliation"
+    }
+  ],
+  "Analysis of Indexing Structures for Immutable Data|39": [
+    {
+      "slug": "Merkle trie"
+    }
+  ],
+  "Signal protocol": [
+    {
+      "slug": "Messaging Layer Security"
+    },
+    {
+      "slug": "Off-The-Record protocol"
+    }
+  ],
+  "Transcript consistency": [
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "A More Complete Analysis of the Signal Double Ratchet Algorithm": [
+    {
+      "slug": "Messaging Layer Security"
+    }
+  ],
+  "Verifiable Mix-Nets and Distributed Decryption for Voting from Lattice-Based Assumptions": [
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "On Precisely Detecting Censorship Circumvention in Real-World Networks": [
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "I2P": [
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "Lokinet": [
+    {
+      "slug": "Mixnets and network anonymity schemes"
+    }
+  ],
+  "History graph": [
+    {
+      "slug": "Modular Design of Secure Group Messaging Protocols and the Security of MLS"
+    }
+  ],
+  "Broadcast encryption": [
+    {
+      "slug": "Modular Design of Secure Group Messaging Protocols and the Security of MLS"
+    },
+    {
+      "slug": "Multicast encryption"
+    }
+  ],
   "Perceptron|perceptrons": [
     {
       "slug": "Multi-layer feed-forward neural network"
@@ -2029,6 +4525,54 @@
       "slug": "gradient descent"
     }
   ],
+  "Organ Pages - Muni Town Meeting": [
+    {
+      "slug": "Muni Town"
+    },
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Weird": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Jazz": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Germ": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Practical Rateless Set Reconciliation|RIBLT": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Keyhive": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "BeeKEM": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees|DCGKA": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
+  "Lose your device, but keep your keys|Frost Threshold Signatures": [
+    {
+      "slug": "Muni Town"
+    }
+  ],
   "Bayes Theorem": [
     {
       "slug": "Naïve-Bayes"
@@ -2037,9 +4581,88 @@
       "slug": "Probability Theory"
     }
   ],
+  "PGP": [
+    {
+      "slug": "Off-The-Record protocol"
+    }
+  ],
+  "Deniability": [
+    {
+      "slug": "Off-The-Record protocol"
+    }
+  ],
+  "Asynchronous ratcheting tree": [
+    {
+      "slug": "On Ends-to-Ends Encryption - Asynchronous Group Messaging with Strong Security Guarantees"
+    },
+    {
+      "slug": "TreeKEM"
+    }
+  ],
   "The Uncommons": [
     {
       "slug": "One-World World"
+    }
+  ],
+  "Organ Pages Proposal": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages - Design": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages Business Plan": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages Data Model": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages server": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages Marketing Plan": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Organ Pages - Roadmap": [
+    {
+      "slug": "Organ Pages"
+    }
+  ],
+  "Stalin": [
+    {
+      "slug": "Orthodox Marxism"
+    }
+  ],
+  "Immanuel Wallerstein": [
+    {
+      "slug": "Orthodox Marxism"
+    },
+    {
+      "slug": "Robert Brenner"
+    },
+    {
+      "slug": "World-systems theory"
+    }
+  ],
+  "confidentiality": [
+    {
+      "slug": "PGP"
+    }
+  ],
+  "authenticity": [
+    {
+      "slug": "PGP"
     }
   ],
   "activation function": [
@@ -2062,6 +4685,16 @@
       "slug": "Perceptron"
     }
   ],
+  "Pluriversal Politics_ The Real and the Possible -- Arturo Escobar -- Latin America in Translation, 2020 -- Duke University Press -- 9781478007937 -- 442404d3bd55adc136e3a858e86a4ea8 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Pluriversal Politics"
+    }
+  ],
+  "Designs for the Pluriverse|2018": [
+    {
+      "slug": "Pluriversal Politics"
+    }
+  ],
   "DFTP - Preface and Acknowledgements": [
     {
       "slug": "Pluriverse"
@@ -2080,12 +4713,56 @@
       "slug": "To Our Friends"
     },
     {
+      "slug": "Walter D. Mignolo"
+    },
+    {
       "slug": "epistemology"
+    }
+  ],
+  "Glissant_Edouard_Poetics_of_Relation.pdf": [
+    {
+      "slug": "Poetics of Relation"
+    }
+  ],
+  "Edouard Glissant": [
+    {
+      "slug": "Poetics of Relation"
     }
   ],
   "Designs_for_the_Pluriverse_Radical_Inter.pdf#page=75&selection=4,0,26,75|Designs_for_the_Pluriverse_Radical_Inter, page 75": [
     {
       "slug": "Political Ontology"
+    }
+  ],
+  "Invertible Bloom Lookup Table": [
+    {
+      "slug": "Practical Rateless Set Reconciliation"
+    }
+  ],
+  "Alex_Parke_Honors_Thesis__16123615.pdf": [
+    {
+      "slug": "Primitive Accumulation and the Northern Territory Intervention"
+    }
+  ],
+  "primitive accumulation": [
+    {
+      "slug": "Primitive Accumulation and the Northern Territory Intervention"
+    },
+    {
+      "slug": "autonomist Marxism"
+    },
+    {
+      "slug": "subsumption"
+    }
+  ],
+  "feudalism": [
+    {
+      "slug": "Primitive Accumulation"
+    }
+  ],
+  "Adam Smith": [
+    {
+      "slug": "Primitive Accumulation"
     }
   ],
   "Introduction to probability theory": [
@@ -2168,17 +4845,12 @@
       "slug": "Project Cybersyn"
     }
   ],
-  "Fernando Flores": [
+  "Multi-recipient Public Key Encryption": [
     {
-      "slug": "Project Cybersyn"
+      "slug": "Public Key Encryption"
     }
   ],
   "Literature": [
-    {
-      "slug": "Public research notes"
-    }
-  ],
-  "Arturo Escobar": [
     {
       "slug": "Public research notes"
     }
@@ -2188,32 +4860,25 @@
       "slug": "Public research notes"
     }
   ],
-  "software engineering": [
-    {
-      "slug": "Public research notes"
-    }
-  ],
-  "cognition as enaction": [
-    {
-      "slug": "Public research notes"
-    },
-    {
-      "slug": "cognition"
-    }
-  ],
   "Unthought|Hayles, 2017": [
     {
       "slug": "Public research notes"
     }
   ],
-  "new materialism": [
+  "new materialisms": [
     {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "Unthought"
     }
   ],
   "distributed agency": [
     {
       "slug": "Public research notes"
+    },
+    {
+      "slug": "Unthought"
     }
   ],
   "Intelligence-led Organising": [
@@ -2221,14 +4886,14 @@
       "slug": "Public research notes"
     }
   ],
-  "GraphRAG": [
+  "knowledge management": [
     {
       "slug": "Public research notes"
     }
   ],
-  "knowledge management": [
+  "2311.10825v1.pdf": [
     {
-      "slug": "Public research notes"
+      "slug": "Pudding - user discovery for anonymity networks"
     }
   ],
   "Jasper Bernes": [
@@ -2264,11 +4929,6 @@
       "slug": "Revolutionary Motives"
     }
   ],
-  "Body without Organs": [
-    {
-      "slug": "Revolutionary Motives"
-    }
-  ],
   "3quc46lq2i_file.pdf#page=17&annotation=936R": [
     {
       "slug": "Revolutionary Motives"
@@ -2297,6 +4957,42 @@
       "slug": "Revolutionary Motives"
     }
   ],
+  "political Marxism": [
+    {
+      "slug": "Robert Brenner"
+    }
+  ],
+  "Ellen Meiksins Wood": [
+    {
+      "slug": "Robert Brenner"
+    }
+  ],
+  "Orthodox Marxism|Orthodox Marxist": [
+    {
+      "slug": "Robert Brenner"
+    }
+  ],
+  "Agrarian Class Structure and Economic Development in Pre-Industrial Europe": [
+    {
+      "slug": "Robert Brenner"
+    },
+    {
+      "slug": "The construction of the workers' movement"
+    }
+  ],
+  "CRDT Sync": [
+    {
+      "slug": "Roomy Sync Server"
+    },
+    {
+      "slug": "Roomy"
+    }
+  ],
+  "Roomy Sync Server": [
+    {
+      "slug": "Roomy"
+    }
+  ],
   "Power Rule": [
     {
       "slug": "Rules of Differentiation"
@@ -2310,6 +5006,31 @@
   "Quotient Rule": [
     {
       "slug": "Rules of Differentiation"
+    }
+  ],
+  "lic.pdf": [
+    {
+      "slug": "Searching in a small world"
+    }
+  ],
+  "Small world": [
+    {
+      "slug": "Searching in a small world"
+    }
+  ],
+  "Secure group messaging|SGM": [
+    {
+      "slug": "Secure messaging"
+    }
+  ],
+  "LSM tree": [
+    {
+      "slug": "Sedimentree"
+    }
+  ],
+  "Pseudorandom Generator|PRG": [
+    {
+      "slug": "Sender Keys"
     }
   ],
   "Introduction to set theory": [
@@ -2335,6 +5056,26 @@
   "Laws on sets": [
     {
       "slug": "Set Theory"
+    }
+  ],
+  "Merkle trie": [
+    {
+      "slug": "Set reconciliation"
+    }
+  ],
+  "Off-The-Record protocol": [
+    {
+      "slug": "Signal protocol"
+    }
+  ],
+  "Caliban and the Witch": [
+    {
+      "slug": "Silvia Federici"
+    }
+  ],
+  "Brain of the Firm": [
+    {
+      "slug": "Stafford Beer"
     }
   ],
   "Katherine Cunningham": [
@@ -2460,14 +5201,82 @@
       "slug": "The Belly of the Revolution - Agriculture, Energy, and the Future of Communism"
     }
   ],
+  "Accelerationist Manifesto": [
+    {
+      "slug": "The Cybernetic Hypothesis"
+    }
+  ],
+  "Tiqqun": [
+    {
+      "slug": "The Cybernetic Hypothesis"
+    }
+  ],
+  "The Double Ratchet Algorithm|Signal": [
+    {
+      "slug": "The Double Ratchet - Security Notions, Proofs, and Modularization for the Signal Protocol"
+    }
+  ],
+  "Forward secrecy|earlier keys cannot be calculated from later ones": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Post-compromise security|later keys cannot be calculated from earlier ones": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Pseudorandom Generator|PRF": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Forward secrecy|Forward security": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "Post-compromise security|Break-in recovery": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "The X3DH Key Agreement Protocol|shared secret": [
+    {
+      "slug": "The Double Ratchet Algorithm"
+    }
+  ],
+  "capital|Capital": [
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "commodity|commodities": [
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "commodity": [
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "labour|labor": [
+    {
+      "slug": "The General Formula for Capital"
+    }
+  ],
+  "money": [
+    {
+      "slug": "The General Formula for Capital"
+    },
+    {
+      "slug": "capital"
+    }
+  ],
   "328427060.pdf": [
     {
       "slug": "The Internet and Development - A Critical Perspective"
-    }
-  ],
-  "Humberto Maturana": [
-    {
-      "slug": "The Origin of Humanness in the Biology of Love"
     }
   ],
   "preview-9781845403775_A24168368.pdf": [
@@ -2480,22 +5289,178 @@
       "slug": "The Origin of the Family, Private Property and the State"
     }
   ],
+  "brenner77.pdf": [
+    {
+      "slug": "The Origins of Capitalist Development - A Critique of Neo-Smithian Marxism"
+    }
+  ],
+  "Jacques Camatte": [
+    {
+      "slug": "The Passion of Communism"
+    },
+    {
+      "slug": "subsumption"
+    }
+  ],
+  "Invariance": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "Giorgio Cesarano": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "workerism|Operaismo": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "autonomist Marxism|Autonomia": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "'Transition'": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "Proletariat and Gemeinwesen": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "'Marx and Gemeinwesen'": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "Excerpts from 'Apocalypse and Revolution'": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "'Provocation'": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "'Glosses on Humanism'": [
+    {
+      "slug": "The Passion of Communism"
+    }
+  ],
+  "The philosophy of social ecology -- Adobe Acrobat 9_3_4 -- 2°, 1996 -- Black Rose books -- 9781551640181 -- df2e6d94d5eecf10f7c4135d77b446c2 -- Anna’s Archive.pdf": [
+    {
+      "slug": "The Philosophy of Social Ecology"
+    }
+  ],
+  "Tree of Knowledge_ The Biological Roots of Human -- Humberto R_ Maturana; Francisco J_ Varela -- 2, 1992 -- Shambhala -- 9780877736424 -- 796ae0c8ea3f06f4a8ce7d3f41519d3c -- Anna’s Archive.epub": [
+    {
+      "slug": "The Tree of Knowledge"
+    }
+  ],
   "the-uncommons.pdf": [
     {
       "slug": "The Uncommons"
     }
   ],
+  "Joel Gustafson": [
+    {
+      "slug": "The Underlay"
+    }
+  ],
+  "The Future of Knowledge": [
+    {
+      "slug": "The Underlay"
+    }
+  ],
+  "Underlay - A First Description": [
+    {
+      "slug": "The Underlay"
+    }
+  ],
+  "Triple Diffie-Hellman": [
+    {
+      "slug": "The X3DH Key Agreement Protocol"
+    }
+  ],
+  "After the Internet": [
+    {
+      "slug": "Tiziana Terranova"
+    }
+  ],
+  "TOOLS FOR CONVIVIALITY -- IVAN ILLICH -- n_e_, 1975 -- Fontana Collins -- 9780006336211 -- 47196ee79a74e40bf81e4b52d91289a3 -- Anna’s Archive.pdf": [
+    {
+      "slug": "Tools for Conviviality"
+    }
+  ],
+  "DFTP - Introduction": [
+    {
+      "slug": "Tools for Conviviality"
+    },
+    {
+      "slug": "development"
+    }
+  ],
+  "TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups": [
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Security Analysis and Improvements for the IETF MLS Standard for Group Messaging|Alwen et al.": [
+    {
+      "slug": "TreeKEM"
+    }
+  ],
+  "Authenticated Diffie-Hellman|authenticated key exchange": [
+    {
+      "slug": "Triple Diffie-Hellman"
+    }
+  ],
+  "TrustNet": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Cabal": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Distributed systems": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Subjective moderation": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Trust": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
+  "Computational Trust": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    },
+    {
+      "slug": "trust"
+    }
+  ],
+  "trustnet-cblgh.pdf": [
+    {
+      "slug": "TrustNet - Trust-based Moderation"
+    }
+  ],
   "hermeneutics": [
     {
       "slug": "Understanding Computers and Cognition"
-    }
-  ],
-  "cognition": [
-    {
-      "slug": "Understanding Computers and Cognition"
-    },
-    {
-      "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
     }
   ],
   "Martin Heidegger|Heidegger": [
@@ -2504,6 +5469,9 @@
     },
     {
       "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
+    },
+    {
+      "slug": "Unthought"
     }
   ],
   "2407.10188v2.pdf#page=2&selection=15,38,20,17|2407.10188v2, page 2": [
@@ -2511,7 +5479,137 @@
       "slug": "Unexpected Benefits of Self-Modeling in Neural Systems"
     }
   ],
-  "Open Unthought_ The Power of the Cog - Katherine Hayles.pdf": [
+  "Unthought_Katherine_Hayles.pdf": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "agential realism": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Alain Badiou|Badiou, Alain": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Karen Barad|Barad, Karen": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Jane Bennett|Bennett, Jane": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Lauren Berlant|Berlant, Lauren": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "consciousness": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Gilles Deleuze|Deleuze, Gilles": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "efficient-market hypothesis": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "The Embodied Mind|Embodied Mind, The": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "epistemic complexity": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Mark Fisher|Fisher, Mark": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Capitalist Realism": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Elizabeth Grosz|Grosz, Elizabeth": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Gilles Deleuze|Deleuze": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Félix Guattari|Guattari, Félix": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "insurgency": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "knowledge": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Bruno Latour|Latour, Bruno": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Karl Marx|Marx, Karl": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "reterritorialization": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "The Embodied Mind": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Chinese Room": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Claude Shannon|Shannon, Claude": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "subject": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Francisco Varela|Varela, Francisco": [
+    {
+      "slug": "Unthought"
+    }
+  ],
+  "Norbert Wiener|Wiener, Norbert": [
     {
       "slug": "Unthought"
     }
@@ -2531,6 +5629,41 @@
       "slug": "Vibrant Matter"
     }
   ],
+  "mass surveillance in Australia": [
+    {
+      "slug": "Victoria Police"
+    }
+  ],
+  "DeLanda_Manuel_War_in_the_Age_of_Intelligent_Machines.pdf": [
+    {
+      "slug": "War in the Age of Intelligent Machines"
+    }
+  ],
+  "SoK - Secure Messaging": [
+    {
+      "slug": "Web of Trust"
+    }
+  ],
+  "Weird DNS Server Discussion": [
+    {
+      "slug": "Weird"
+    }
+  ],
+  "workerism|workerists": [
+    {
+      "slug": "Wildcat"
+    }
+  ],
+  "Angry Workers": [
+    {
+      "slug": "Wildcat"
+    }
+  ],
+  "Worker’s inquiry": [
+    {
+      "slug": "Wildcat"
+    }
+  ],
   "Counter-governance": [
     {
       "slug": "Worker Cooperatives"
@@ -2541,9 +5674,95 @@
       "slug": "Worker Cooperatives"
     }
   ],
+  "David Ricardo": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "Joseph Stalin": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "Maurice Dobb": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "Paul Sweezy": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "primitive accumulation|plunder": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "surplus-value": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "class struggle": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "Left as expansion, Right as contraction": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "nationalism": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "The Origins of Capitalist Development - A Critique of Neo-Smithian Marxism": [
+    {
+      "slug": "World-Systems Analysis - An Introduction (Full Text)"
+    }
+  ],
+  "World-systems analysis_ an introduction -- Immanuel Wallerstein -- A John Hope Franklin Center Book, 2004 -- Duke University Press Books -- 9780822334316 -- 70eae5d11195e89a127b7ea52c0e0934 -- Anna’s Archive.pdf": [
+    {
+      "slug": "World-Systems Analysis - An Introduction"
+    }
+  ],
+  "World-Systems Analysis - An Introduction (Full Text)": [
+    {
+      "slug": "World-Systems Analysis - An Introduction"
+    }
+  ],
+  "dependency theory": [
+    {
+      "slug": "World-systems theory"
+    }
+  ],
+  "workerism|workerist": [
+    {
+      "slug": "autonomist Marxism"
+    }
+  ],
+  "Raniero Panzieri": [
+    {
+      "slug": "autonomist Marxism"
+    },
+    {
+      "slug": "workerism"
+    }
+  ],
+  "Silvia Federici": [
+    {
+      "slug": "autonomist Marxism"
+    }
+  ],
   "Humberto Maturana|Maturana": [
     {
       "slug": "autonomy"
+    },
+    {
+      "slug": "autopoiesis"
     }
   ],
   "Francisco Varela|Varela": [
@@ -2599,7 +5818,7 @@
       "slug": "development"
     }
   ],
-  "DFTP - Introduction": [
+  "In the Way of Development - Indigenous Peoples, Life Projects and Globalization|Blaser et al.": [
     {
       "slug": "development"
     }
@@ -2624,6 +5843,26 @@
       "slug": "development"
     }
   ],
+  "Telecommunications (Interception and Access) Act 1979": [
+    {
+      "slug": "mass surveillance in Australia"
+    }
+  ],
+  "Data Retention Scheme": [
+    {
+      "slug": "mass surveillance in Australia"
+    }
+  ],
+  "Five Eyes": [
+    {
+      "slug": "mass surveillance in Australia"
+    }
+  ],
+  "Session - End-To-End Encrypted Conversations With Minimal Metadata Leakage": [
+    {
+      "slug": "metadata-private messaging"
+    }
+  ],
   "constructivism": [
     {
       "slug": "postconstructivism"
@@ -2639,17 +5878,27 @@
       "slug": "relational ontologies"
     }
   ],
+  "relational ontologies|relational ontology": [
+    {
+      "slug": "relationality"
+    }
+  ],
   "autopoesis": [
     {
       "slug": "relationality"
     }
   ],
-  "Das Kapital|Capital": [
+  "Friedrich Hayek": [
     {
-      "slug": "subsumption"
+      "slug": "socialist planning"
     }
   ],
-  "Primitive Accumulation": [
+  "corporations as artificial intelligences": [
+    {
+      "slug": "socialist planning"
+    }
+  ],
+  "Capital (Marx)|Capital": [
     {
       "slug": "subsumption"
     }
@@ -2657,6 +5906,21 @@
   "Ivan Illich": [
     {
       "slug": "technology"
+    }
+  ],
+  "reputation": [
+    {
+      "slug": "trust"
+    }
+  ],
+  "Ramono Alquati": [
+    {
+      "slug": "workerism"
+    }
+  ],
+  "wages for housework": [
+    {
+      "slug": "workerism"
     }
   ]
 }

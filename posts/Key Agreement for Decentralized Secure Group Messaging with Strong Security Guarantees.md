@@ -11,6 +11,8 @@ aliases:
 ---
 References MLS draft 11, architecture draft 5
 
+See also [[Group Messaging for Secure Asynchronous Collaboration]]
+
 # Paper
 ## Abstract
 
@@ -89,7 +91,7 @@ In large groups, MLS update messages are smaller than those in our protocol; the
 
 Alwen et al. [3] introduce *[[Security Analysis and Improvements for the IETF MLS Standard for Group Messaging|Re-randomized TreeKEM]]* to strengthen TreeKEM’s forward secrecy. That protocol is ==even harder to decentralize==: group members update each other’s secret keys so that each secret key is only used once, allowing them to be deleted for forward secrecy, but this approach breaks if multiple concurrent messages are encrypted under the same public key. 
 
-In the other direction, *Causal TreeKEM* modifies TreeKEM to require only causally ordered message delivery (see Section 5.1), at the cost of even ==weaker forward secrecy== [41 , §4]. Like our work, ==Causal TreeKEM describes how to handle dynamic groups in the decentralized setting, although the protocol description is largely informal. Also, its post-compromise security is weaker than for our DCGKA protocol: after multiple compromises, all compromised group members must send PCS updates in *sequence*, while our protocol allows all but the last update to be concurrent.== 
+In the other direction, *[[Group Messaging for Secure Asynchronous Collaboration|Causal TreeKEM]]* modifies TreeKEM to require only causally ordered message delivery (see Section 5.1), at the cost of even ==weaker forward secrecy== [41 , §4]. Like our work, ==Causal TreeKEM describes how to handle dynamic groups in the decentralized setting, although the protocol description is largely informal. Also, its post-compromise security is weaker than for our DCGKA protocol: after multiple compromises, all compromised group members must send PCS updates in *sequence*, while our protocol allows all but the last update to be concurrent.==  ^713f24
 
 Bienstock, Dodis, and Rösler [9, §6] also propose a concurrency-aware variant of TreeKEM (“[[On the Price of Concurrency in Group Ratcheting Protocols|Concurrent TreeKEM]]” in Table 1). This protocol ==achieves PCS updates whose cost scales with the number of previous concurrent messages, matching MLS’s 𝒪(log(n)) when all messages are totally ordered==. However, it assumes that PCS updates occur in fixed rounds, with all messages from one round received before the start of the next round, and the ==authors do not consider forward secrecy or dynamic groups==. 
 

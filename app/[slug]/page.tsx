@@ -2,10 +2,14 @@ import styles from "./page.module.css"
 import { getPost } from "lib/markdown"
 import { Markdown } from "components/Markdown"
 import Image from "next/image"
+import { Suspense } from "react"
 // import { redirect } from "next/navigation"
 // import Link from "next/link"
 
-export default async function Post({ params }: { params: { slug: string } }) {
+export default async function Post(props: {
+  params: Promise<{ slug: string }>
+}) {
+  const params = await props.params
   try {
     getPost(params.slug)
   } catch (error) {
@@ -60,7 +64,10 @@ export default async function Post({ params }: { params: { slug: string } }) {
             </tr>
           )}
         </table>
-        <Markdown markdown={post.content} />
+        <Suspense fallback={<div>Loading...</div>}>
+          {/* @ts-expect-error Async Server Component */}
+          <Markdown markdown={post.content} />
+        </Suspense>
         {post.backlinks.length > 0 && (
           <section className="mt-10">
             <h2>Backlinks</h2>

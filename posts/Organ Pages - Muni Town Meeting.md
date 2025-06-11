@@ -21,6 +21,7 @@ is there an intention to seek investment? when would that make sense? are there 
 
 who did you work with?
 what was this grant?
+https://skyseed.fund/
 # Organ
 - organ-pages frontend
 - organ engine

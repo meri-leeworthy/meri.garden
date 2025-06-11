@@ -38,10 +38,6 @@
   @apply py-0 my-0;
 } */
 
-.post code {
-  @apply bg-purple-300;
-}
-
 .post blockquote {
   @apply border-l-4 border-slate-700 pl-4 my-4;
 }
@@ -57,4 +53,24 @@
   content: " \2197"; /* Add an up-right arrow */
   display: inline-block;
   margin-left: 0px;
+}
+
+.post pre {
+  @apply bg-slate-800 p-4 rounded-md leading-none pt-0;
+}
+
+.post pre code {
+  @apply text-sm leading-none;
+}
+
+.post ul li {
+  @apply py-0 my-0;
+}
+
+.post ul li p {
+  @apply py-0 my-0;
+}
+
+.post li ul {
+  @apply py-0 my-0;
 }

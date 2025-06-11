@@ -1,6 +1,22 @@
+Original paper: 
 [[TreeKEM - Asynchronous Decentralized Key Management for Large Dynamic Groups]]
 
 TreeKEM is a [[Continuous Group Key Agreement]] protocol known for being the initial proposal for providing the 'core' logic of the [[Messaging Layer Security]] protocol.
+
+```pseudocode
+Node {
+    left: Node | null
+    right: Node | null
+    secret: Secret | null
+    public_key: PublicKey | null
+    parent_hash: Hash | null
+}
+```
+> [!NOTE] How each node derives all keys on the path to the root
+> if I have a secret key for my leaf node, i've broadcast a public DH key derived from that secret, and i have the public key of my binary tree sibling, then together we can generate a shared secret for our parent and derive a public key from that, which we can broadcast. then using the PK for that node's sibling, we can derive the grandparent's secret key, all the way up to the root node secret. also explained [[02 · Group Key Agreement with BeeKEM|here]]
+
+> [!question]
+> how does each node know its position in the tree?
 
 TreeKEM "continuously generates fresh, shared, and secret randomness used by the participating parties ==to evolve the group key material==. ==Each new group key is used to initiate a fresh symmetric hash ratchet that defines a stream of nonce/key pairs to symmetrically encrypt/decrypt higher level application messages== (such as texts in a chat) using an AEAD. A stream is used until the next evolution of the group key at which point a new stream is initiated." [[Security Analysis and Improvements for the IETF MLS Standard for Group Messaging|Alwen et al.]] p.250
 
@@ -8,7 +24,9 @@ See also
 [[Asynchronous ratcheting tree]]
 
 
-one question i have is how/when did the issues with [[TreeKEM]] get resolved - seems like definitely better by draft 11?
+> [!Question]
+>how/when did the [[#Problems|issues]] with [[TreeKEM]] get resolved - seems like definitely better by draft 11?
+
 
 ### When does the group key 'evolve'?
 
@@ -135,3 +153,175 @@ Issues with [[Forward secrecy]] "stemming from the fact that its users do not er
 >Irrespective of whether T was created by ME or another user, after processing it, TK-proc resets the variables pertaining to keeping track of ME’s unconfirmed operations.
 >[[Security Analysis and Improvements for the IETF MLS Standard for Group Messaging]] pp.260-266
 
+
+
+# TreeKEM as a composition of simpler functions
+
+**TreeKEM** (Tree Key Establishment Mechanism), the key exchange protocol at the heart of [MLS (Message Layer Security)](https://datatracker.ietf.org/doc/html/rfc9420), can be described as a **composition of simpler functions and ideas**, both cryptographic and structural:
+
+### 🔧 TreeKEM = (Binary Tree Structure) + (Diffie-Hellman Key Exchanges) + (Key Derivation)
+
+### 1. **Binary Tree Structure**
+
+- Members of the group are leaves in a binary tree.
+- Each node in the tree (internal or leaf) holds a **secret**, and the group secret is derived from the root.
+- Each member stores secrets for nodes along their direct path to the root.
+### 2. **Diffie-Hellman (DH) at Each Node**
+
+- Internal nodes derive their secret from a **DH operation** between their children.
+- The standard DH or HPKE (Hybrid Public Key Encryption) operation is applied:  
+    `secret_parent = KDF(DH(pubL, privR))`  
+    where `pubL` and `privR` are public/private key pairs from the left and right child.
+### 3. **Update / Join = Reblinding Subtree**
+
+- When someone updates their key or a new member joins:
+    - They generate a new leaf secret.
+    - Then recursively recompute secrets up to the root by replacing (and reblinding) their direct path.
+    - This requires publishing **UpdatePath**, which includes new public keys along the direct path and encryptions of node secrets to sibling nodes.
+### 4. **Key Derivation = TreeKDF**
+
+- Secrets at each node are not used directly — instead, TreeKEM uses a **KDF tree** to derive:
+    - The group encryption key
+    - Welcome secrets
+    - Message secrets (through a secret tree)
+### 5. **Encryption = HPKE Composition**
+
+- TreeKEM composes with **HPKE** for:
+    - Encrypting path secrets
+    - Welcome messages for new members
+### 6. **Authentication = Parent Hashes**
+
+- Every internal node includes a **parent hash** (a hash of its children's secrets), ensuring the integrity of the tree structure and preventing equivocation.
+### Summary:
+
+TreeKEM is a **compositional protocol** built from:
+
+- **Tree structure** for scalability
+- **Diffie-Hellman key agreement** for security
+- **KDFs** for key derivation
+- **HPKE** for authenticated encryption
+- **Hashes** for integrity and authentication
+
+This modularity is part of what makes TreeKEM elegant and efficient.
+
+## Pseudocode
+
+### 🔐 Primitives
+
+```pseudocode
+GenerateKeyPair() -> (sk, pk)
+DH(sk, pk_other) -> shared_secret
+KDF(secret, label) -> derived_key
+HPKE_Encrypt(pk, plaintext) -> ciphertext
+HPKE_Decrypt(sk, ciphertext) -> plaintext
+Hash(data) -> digest
+```
+
+### 🌲 Tree Structure
+
+```pseudocode
+Node {
+    left: Node | null
+    right: Node | null
+    secret: Secret | null
+    public_key: PublicKey | null
+    parent_hash: Hash | null
+}
+```
+
+Each **leaf node** corresponds to a group member. Each **internal node** has a DH key pair and is derived from its children.
+
+### 🔁 Key Derivation in Tree
+
+```pseudocode
+DeriveParentSecret(left_node, right_node):
+    dh_shared = DH(left_node.secret, right_node.public_key)
+    return KDF(dh_shared, "node secret")
+
+BuildTreeSecrets(node):
+    if node is leaf:
+        node.secret = GenerateKeyPair().sk
+    else:
+        BuildTreeSecrets(node.left)
+        BuildTreeSecrets(node.right)
+        node.secret = DeriveParentSecret(node.left, node.right)
+        node.public_key = GenerateKeyPairFromSecret(node.secret)
+        node.parent_hash = Hash(node.left.public_key || node.right.public_key)
+```
+
+---
+
+### 🔄 UpdatePath Generation
+
+```pseudocode
+GenerateUpdatePath(updating_leaf):
+    new_path = []
+    node = updating_leaf
+    while node != root:
+        sibling = node.get_sibling()
+        parent = node.get_parent()
+
+        # New secret for this parent
+        new_secret = GenerateKeyPair().sk
+        new_public = GenerateKeyPairFromSecret(new_secret)
+
+        encrypted_secrets = []
+        for recipient in sibling.copath_leaves():
+            ciphertext = HPKE_Encrypt(recipient.public_key, new_secret)
+            encrypted_secrets.append((recipient.id, ciphertext))
+
+        new_path.append({
+            node_id: parent.id,
+            public_key: new_public,
+            encrypted_secrets: encrypted_secrets
+        })
+
+        node = parent
+    return new_path
+```
+
+---
+
+### 🧩 Applying an UpdatePath
+
+```pseudocode
+ApplyUpdatePath(receiver_leaf, update_path):
+    for entry in update_path:
+        if receiver_leaf in copath(entry.node_id):
+            ciphertext = entry.encrypted_secrets[receiver_leaf.id]
+            secret = HPKE_Decrypt(receiver_leaf.secret, ciphertext)
+            RecomputeSubtree(entry.node_id, secret)
+```
+
+---
+
+### 🔑 Group Key Derivation
+
+```pseudocode
+ComputeGroupKey(root_node):
+    return KDF(root_node.secret, "group key")
+```
+
+---
+
+### 📦 Welcome Message for New Members
+
+```pseudocode
+GenerateWelcome(new_member, tree_root):
+    path_secret = ... # from leaf to root
+    welcome_secret = KDF(path_secret, "welcome")
+    encrypted_welcome = HPKE_Encrypt(new_member.public_key, welcome_secret)
+    return encrypted_welcome
+```
+
+---
+
+This pseudocode shows TreeKEM as a **functional composition** of:
+
+- Key pair generation
+- DH key agreement
+- KDFs
+- HPKE encryption
+- Tree traversal
+
+Each component is relatively simple, but their orchestration enables efficient and secure group key agreement. Let me know if you want a specific aspect implemented in real code (e.g. Rust, Python, or TypeScript).

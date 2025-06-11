@@ -1,17 +1,10 @@
-[[Organ Pages - Muni Town Meeting]]
-[[Leaf Render Update 0]]
-[[Approach to rendering Leaf]]
-> Muni Town Questions
-> 
-> How does Germ manage keys Roomy has key server, looks bad, centralised you log in to ATProto and you have a Roomy key you can use Fission/Brooklyn - key fragments
-> 
-> how are they doing realtime peer to peer? sync server?
-> 
-> Research Beelay and Keyhive more talk to Brooklyn?
-
-[[Leaf]]
-[[Roomy]]
-[[Weird]]
+- [[Organ Pages - Muni Town Meeting]]
+- [[Leaf Render Update 0]]
+- [[Approach to rendering Leaf]]
+- [[Muni Town Questions]]
+- [[Leaf]]
+- [[Roomy]]
+- [[Weird]]
 
 ## Potential things I could be doing right now
 - Creating a mini version of Roomy to play with the SDK
@@ -20,23 +13,30 @@
 - Writing a proposal for centralised component schema registry (probably just a github repo)
 - Finishing my writeup on [[Leaf Render Update 0]] and posting my vid & some writing to instagram & substack
 
-## Research Topics
-[[Jazz]]
-[[Germ]]
-	[Autonomous Communicator (AC) Protocol](https://www.germnetwork.com/blog/autonomous-communicator-ac-protocol)
-	[Decentralized Pairwise MLS](https://www.germnetwork.com/blog/decentralized-pairwise-mls)
-[[Beelay]]
-	[[Practical Rateless Set Reconciliation|RIBLT]]
-[[Keyhive]]
-	[[BeeKEM]]
-[[Messaging Layer Security|MLS]]
-	[[TreeKEM]]
-[[Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees|DCGKA]]
-Petnames
-[AT Messaging Proto](https://github.com/ATProtocol-Community/atmessaging-proto)
-[[ATProto]] Sync
+## Current focus
+- Verify/fix Leaf functionality with testing
+- Transition Weird to use Leaf SDK and leaf-render
+- Transition Weird to use ISR with object storage
 
-[[Lose your device, but keep your keys|Frost Threshold Signatures]]
+## Research Topics
+- [[Leaf Swappable UI]]
+- [[CRDT Sync]]
+- 
+- [[Jazz]]
+- [[Germ]]
+	- [Autonomous Communicator (AC) Protocol](https://www.germnetwork.com/blog/autonomous-communicator-ac-protocol)
+	- [Decentralized Pairwise MLS](https://www.germnetwork.com/blog/decentralized-pairwise-mls)
+- [[Beelay]]
+	- [[Practical Rateless Set Reconciliation|RIBLT]]
+- [[Keyhive]]
+	- [[BeeKEM]]
+- [[Messaging Layer Security|MLS]]
+	- [[TreeKEM]]
+- [[Key Agreement for Decentralized Secure Group Messaging with Strong Security Guarantees|DCGKA]]
+- [[Petnames]]
+- [[ATProto]] Sync
+	- [AT Messaging Proto](https://github.com/ATProtocol-Community/atmessaging-proto)
+- [[Lose your device, but keep your keys|Frost Threshold Signatures]]
 
 | Project | Permissions & Security | Sync & Compression |
 | ------- | ---------------------- | ------------------ |
@@ -46,9 +46,13 @@ Petnames
 | Germ    | x                      | x                  |
 | Jazz    | x                      | x                  |
 | Iroh    |                        | x                  |
+
 Other sync servers
 
 
 # Misc links
-[Keyhive lab](https://github.com/muni-town/keyhive-lab) (includes benchmarking code comparing CRDTs)
-[Polyform licences](https://polyformproject.org/licenses/)
+- [Keyhive lab](https://github.com/muni-town/keyhive-lab) (includes benchmarking code comparing CRDTs)
+- [Polyform licences](https://polyformproject.org/licenses/)
+- [The Deal](https://blog.muni.town/p/13f729dd-11e5-4a0d-9f15-2f5e0db529f0/)
+- [Tweets Archive Site](https://codinghorror-tweets.server3.weird.internal.muni.town/)
+- [Tweets Archive Repo](https://github.com/zicklag/twitter-archive-site/tree/main?tab=readme-ov-file)

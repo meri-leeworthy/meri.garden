@@ -17,6 +17,7 @@ export default async function Work() {
               .filter(post => post.data.tags.includes("freelance"))
               .sort((a, b) => b.data.date - a.data.date)
               .map((post, i) => (
+                // @ts-expect-error Async Server Component
                 <Article post={post} key={i} />
               ))}
           </div>
@@ -29,6 +30,7 @@ export default async function Work() {
               .filter(post => post.data.tags.includes("projects"))
               .sort((a, b) => b.data.date - a.data.date)
               .map((post, i) => (
+                // @ts-expect-error Async Server Component
                 <Article post={post} key={i} />
               ))}
           </div>

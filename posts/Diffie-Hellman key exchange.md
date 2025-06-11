@@ -5,6 +5,8 @@ aliases:
 ---
 - published in 1976, first publicly known use of 'public key'/'private key' concept. Precedes [[RSA]]
 
+
+![](../public/200d4cc0d0c2cc9e2abd3b8be2c286ef.png)
 ## Monash
 
 This algorithm is named after its founders and the main purpose of the algorithm, as the name suggests, is to perform the exchange of the secret key between two communicating users. Once the key exchange has been done, the users can then securely communicate using any algorithm with the shared secret key. 
